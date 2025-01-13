@@ -3,7 +3,7 @@
 ## THE VIEW OF ROTTERDAM
 
 ![foto header](https://github.com/user-attachments/assets/32ea068c-114d-413a-bce2-2c8e711eb908) 
-by Bob's building crew:
+By Bob's building crew:
 
 Fleur Ubbink
 Kenneth Moreno Kiernan
@@ -38,4 +38,36 @@ Self-contained elderly units: as an independent senior, I want a parking spot an
 ![minor starter units](https://github.com/user-attachments/assets/37bfff08-3009-4488-a15a-611177515772)
 
 Starter units: as a starter, I want my family to feel as safe as possible and make our lives more convenient. This means that our apartment must at least be 50 m2 with some extra storage space and a balcony included. The extra storage space doesn’t need to be on our floor.  As starters my partner and I are ambitious and very busy. A room for a potential child is not necessary because we don’t want to have our child growing up in a large building with students. We like our rest and privacy but  don’t want to feel like we’re living alone. Some casual contact between the other residents is what we like. So the possibility to chat with the students or help the elderly in a communal area would be nice. As long as we can park our car in a carpark that’s in direct contact with the building itself by stares or an elevator. As our lives are busy, we want the facilities ( coffee corner, supermarket, laundry units and communal area ) to be nearby. We don’t want to be disturbed by the chaos that’s brought by the students. 
+
+## Design principles
+Design Principles order of hierarchy [requirement]
+1.	Leaning in into “golden view”:
+a.	Progressive displacement towards “golden view”.
+2.	Focus on communal and green/exterior space:
+a.	Roof Garden/planter placement:
+i.	to increase biodiversity,
+ii.	ensure a green area equal to total surface,
+iii.	collection of for one month water autonomy: garden irrigation and toilet water.
+b.	Balcony placement per living unit:
+i.	optimize sunlight and
+ii.	maximize unit-to-unit privacy.
+c.	Designation of 20% of building area to communal space, promoting interaction among residents, in the creation of:
+i.	a Communal Library/Coffee Corner, 
+ii.	practical areas, such as a Grocery Store, Laundry Room(s) and a Care Centre,
+iii.	a Shared Kitchen/Livingroom on every floor.
+d.	Strategic placement:
+i.	of communal and or public facilities to facilitate and promote access, 
+ii.	of living units, to promote integration and prevent possible discomfort/nuisance between groups or external conditions (i.e.: elderly separated from students, elderly away from biergarten)
+3.	Integrating with surrounding buildings/context by:
+a.	ensuring a minimum of 2 hours of sunlight to surrounding buildings, based on sun-path calculations and building heights,
+b.	minimising wind pollution: (rule of thumb) setting maximum height less than double the height of surrounding buildings,
+c.	building typology/rules:
+i.	high plint (can be for example 7m high)
+ii.	big windows,
+iii.	structured rhythmic façade,
+iv.	building structure: big columns and arches (mainly visible from ground floor).
+4.	Powering of communal area lighting up to 100% through the installation of solar panels. 
+
+
+
 
