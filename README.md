@@ -5,13 +5,10 @@
 ![foto header](https://github.com/user-attachments/assets/32ea068c-114d-413a-bce2-2c8e711eb908) 
 By Bob's building crew:
 
-Fleur Ubbink
-
-Kenneth Moreno Kiernan
-
-Keenan Garmers
-
-Jeroen Peek
+-Fleur Ubbink
+-Kenneth Moreno Kiernan
+-Keenan Garmers
+-Jeroen Peek
 
 Teacher : Hans Hogendoorn
 
