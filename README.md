@@ -1,9 +1,18 @@
 
 # Schiestraat Rotterdam
-# Schiestraat Rotterdam2
 ## THE VIEW OF ROTTERDAM
 
-![foto header](https://github.com/user-attachments/assets/32ea068c-114d-413a-bce2-2c8e711eb908) Self-contained student units: as a student in a self-contained dwelling, I will have at least 25m2 of space with a private bathroom and kitchen. I will have access to other facilities including a shared laundry-room, bicycle-storage and building-shared spaces: shared library/livingroom/playroom and garden. This will allow me to interact and spend time with other fellow residents when I want.
+![foto header](https://github.com/user-attachments/assets/32ea068c-114d-413a-bce2-2c8e711eb908) 
+by Bob's building crew:
+Fleur Ubbink
+Kenneth Moreno Kiernan
+Keenan Garmers
+Jeroen Peek
+
+Teacher : Hans Hogendoorn
+
+In this report we will be discussing our design process for a new multipurpouse ap. We will start with the design of building components. Second segment focuses on generating the building mass. After this we will go over how the mass was turned into an actual building. This will be continued by the explanation of designing the surrounding area and lastly how the building has been textured and visualized.
+
 
 User scenarios per group:  
 
