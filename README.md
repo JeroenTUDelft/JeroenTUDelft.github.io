@@ -15,7 +15,7 @@ Self-contained student units: as a student in a self-contained dwelling, I will 
 Shared student units: as a student in a multi-dwelling, I will have a room of at least 25m2  of space, sharing a bathroom, kitchen and living room with up to eight fellow resident-students. This type of setup will allow me to have my privacy whilst sharing and having the chance to interact with my fellow unit-mates in the kitchen and living room, now that spaces less than 25m2 can be a bit too small. Additionally I will have access to a shared bicycle-storage and building-shared spaces: shared library/livingroom/playroom and garden.  
 
 
-
+![minor assisted elderly](https://github.com/user-attachments/assets/9538f52b-37ca-4a12-93dd-32eeeed5b47a)
 Assisted-elderly units: As an assisted-elderly, my dwelling will have to be very accessible/ linked to the care centre. I want my dwelling to be easily accessible by elevator and accessed while using my wheelchair. If necessary I don't want to use the stairs, therefore the dwelling must be single-level and preferably on the lower floors of the building. The dwelling does not have to be too big, however a minimum area of 50m2 is required. I enjoy my peace and quiet, thus I would want for my dwelling to be further away from noisy areas and neighbours. Finally, I enjoy spending time outside and growing plants in my garden, so I would like to have an outside garden with sunlight. 
 
 ![minor self contained elderly](https://github.com/user-attachments/assets/def832ad-4652-4aed-90d2-56548c59aace)
