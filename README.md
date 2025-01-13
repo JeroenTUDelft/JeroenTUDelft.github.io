@@ -11,6 +11,7 @@ User scenarios per group:
 Self-contained student units: as a student in a self-contained dwelling, I will have at least 25m2 of space with a private bathroom and kitchen. I will have access to other facilities including a shared laundry-room, bicycle-storage and building-shared spaces: shared library/livingroom/playroom and garden. This will allow me to interact and spend time with other fellow residents when I want.  
 
 
+![minor shared student](https://github.com/user-attachments/assets/f7f1c505-a586-451b-898f-11b2ec031842)
 Shared student units: as a student in a multi-dwelling, I will have a room of at least 25m2  of space, sharing a bathroom, kitchen and living room with up to eight fellow resident-students. This type of setup will allow me to have my privacy whilst sharing and having the chance to interact with my fellow unit-mates in the kitchen and living room, now that spaces less than 25m2 can be a bit too small. Additionally I will have access to a shared bicycle-storage and building-shared spaces: shared library/livingroom/playroom and garden.  
 
 
