@@ -74,6 +74,8 @@ Design Principles order of hierarchy [requirement]
 ![image](https://github.com/user-attachments/assets/280817c3-218a-45f6-8a82-4b2d61287409)
 Figure 4: Alexandra Road Estate under construction, Arch. Neave Brown, London, 1972–1978, RIBA Collections. 
 
+![image](https://github.com/user-attachments/assets/dfb5421e-1c93-45a7-bc7f-8cbef7ff0a78)
+Figure 5: Alexandra Road Estate seen from railway line, Arch. Neave Brown, London, 1972–1978, Ph. Martin Charles, RIBA Collections.
 
 
 
