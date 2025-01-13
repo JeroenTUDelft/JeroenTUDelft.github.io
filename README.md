@@ -40,9 +40,9 @@ Starter units: as a starter, I want my family to feel as safe as possible and ma
 
 ## Design principles
 Design Principles order of hierarchy [requirement]
-1.	Leaning into “golden view”:
+1.Leaning into “golden view”:
    - Progressive displacement towards “golden view”.
-2.	Focus on communal and green/exterior space:
+2.Focus on communal and green/exterior space:
    - a.Roof Garden/planter placement:
       - i.to increase biodiversity
       - ii.ensure a green area equal to total surface,
@@ -57,7 +57,7 @@ Design Principles order of hierarchy [requirement]
    - d.Strategic placement:
       - i.of communal and or public facilities to facilitate and promote access 
       - ii. of living units, to promote integration and prevent possible discomfort/nuisance between groups or external conditions (i.e.: elderly separated from students, elderly away from biergarten)
-4.	Integrating with surrounding buildings/context by:
+3.Integrating with surrounding buildings/context by:
    - a.ensuring a minimum of 2 hours of sunlight to surrounding buildings, based on sun-path calculations and building heights,
    - b.minimising wind pollution: (rule of thumb) setting maximum height less than double the height of surrounding buildings,
    - c.building typology/rules:
@@ -65,7 +65,7 @@ Design Principles order of hierarchy [requirement]
       - ii.big windows,
       - iii.structured rhythmic façade,
       - iv.building structure: big columns and arches (mainly visible from ground floor).
-5.	Powering of communal area lighting up to 100% through the installation of solar panels.
+4.Powering of communal area lighting up to 100% through the installation of solar panels.
 
 
 ## Reference
