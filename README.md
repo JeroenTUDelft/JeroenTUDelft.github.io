@@ -3,7 +3,7 @@
 # Schiestraat Rotterdam2
 ## THE VIEW OF ROTTERDAM
 
-![foto header](https://github.com/user-attachments/assets/32ea068c-114d-413a-bce2-2c8e711eb908)
+![foto header](https://github.com/user-attachments/assets/32ea068c-114d-413a-bce2-2c8e711eb908) Self-contained student units: as a student in a self-contained dwelling, I will have at least 25m2 of space with a private bathroom and kitchen. I will have access to other facilities including a shared laundry-room, bicycle-storage and building-shared spaces: shared library/livingroom/playroom and garden. This will allow me to interact and spend time with other fellow residents when I want.
 
 User scenarios per group:  
 Self-contained student units: as a student in a self-contained dwelling, I will have at least 25m2 of space with a private bathroom and kitchen. I will have access to other facilities including a shared laundry-room, bicycle-storage and building-shared spaces: shared library/livingroom/playroom and garden. This will allow me to interact and spend time with other fellow residents when I want.  
