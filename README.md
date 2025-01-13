@@ -40,7 +40,7 @@ Starter units: as a starter, I want my family to feel as safe as possible and ma
 
 ## Design principles
 Design Principles order of hierarchy [requirement]
-1.	Leaning in into “golden view”:
+1.	Leaning into “golden view”:
    - Progressive displacement towards “golden view”.
 2.	Focus on communal and green/exterior space:
    - a.Roof Garden/planter placement:
