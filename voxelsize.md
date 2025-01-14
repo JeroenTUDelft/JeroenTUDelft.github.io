@@ -1,6 +1,3 @@
-layout: page
-title: "voxelsize"
-permalink: /voxelsize/
 
 #  voxelsize
 We based our voxel size on the question of what is the “minimum liveable space”?.  
