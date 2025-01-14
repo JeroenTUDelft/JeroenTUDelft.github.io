@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 menu:
   - title: "Home"
-    url: 
+    url: (https://jeroentudelft.github.io)
   - title: "Voxelsize"
-    url: https://jeroentudelft.github.io/voxelsize
+    url: (https://jeroentudelft.github.io/voxelsize)
   
