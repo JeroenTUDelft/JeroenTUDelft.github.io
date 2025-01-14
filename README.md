@@ -75,6 +75,15 @@ Figure 4: Alexandra Road Estate under construction, Arch. Neave Brown, London, 1
 ![image](https://github.com/user-attachments/assets/dfb5421e-1c93-45a7-bc7f-8cbef7ff0a78)
 Figure 5: Alexandra Road Estate seen from railway line, Arch. Neave Brown, London, 1972–1978, Ph. Martin Charles, RIBA Collections.
 
+## Voxel size 
+ 
+ 
+We based our voxel size on the question of what is the “minimum liveable space”?.  
+Author and designer Bruno Munari provides an interesting reflection on the traditional Japanese house as follows: 
+“The proportions of the rooms are expressed in tatami: [a mat of fine and tightly woven straw […] its size about three foot by six [91*182cm], the size of a man lying down.], so that a two-tatami room is about six foot by six [182*182cm], an eight-tatami room is twelve by twelve [366*366] and so on. […] The rooms are about eight feet [244cm] high, so that when one lies in bed there is not a great yawning void above one.”1, which we used and adjusted to Dutch upper median (average height of men in upper median in 2020 above 19 year’s old, 194cm tall), and further standardized to arrive at a three-by-three-by-three meter voxel. 
+
+
+
 ![video](https://github.com/user-attachments/assets/1e83dbcc-5246-4a68-bf92-71807ebf5188)
 
 ![image](https://github.com/user-attachments/files/18399030/Gradiant.chart.funtion.to.function.pdf)
