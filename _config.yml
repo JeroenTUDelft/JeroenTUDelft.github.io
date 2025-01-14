@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 
 header_pages:
   - title: "Home"
-    url: https://jeroentudelft.github.io
+    url: "/"
   - title: "voxelsize"
-    url: https://jeroentudelft.github.io/voxelsize
+    url: "/voxelsize"
