@@ -4,5 +4,5 @@ menu:
   - title: "Home"
     url: "/"
   - title: "Voxelsize"
-    url: "/voxelsize/"
+    url: "https://jeroentudelft.github.io/voxelsize"
   
