@@ -74,3 +74,12 @@ The two coloured noise maps indicate that the high-traffic roads and the railway
 
 ![image](https://github.com/user-attachments/assets/cb6d5276-21d8-41d3-a3bd-8fa640ef1e1f)
 
+## Bubblediagram's per floor
+### Bubble diagram for groundfloor functions configuration 1
+![image](https://github.com/user-attachments/assets/71954f17-671f-4532-8dc4-6d5fd7451b28)
+Figure 10: Bubble Diagram Schieblok Ground Floor-Configuration 1 
+
+### Bubble diagram for groundfloor functions configuration 2
+![image](https://github.com/user-attachments/assets/59af1ed5-71fe-4a4f-859d-f0c7061def87)
+Figure 10: Bubble Diagram Schieblok Ground Floor-Configuration 2 
+
