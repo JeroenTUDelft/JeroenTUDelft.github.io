@@ -39,5 +39,8 @@ Figure 4: Alexandra Road Estate under construction, Arch. Neave Brown, London, 1
 ![image](https://github.com/user-attachments/assets/dfb5421e-1c93-45a7-bc7f-8cbef7ff0a78)
 Figure 5: Alexandra Road Estate seen from railway line, Arch. Neave Brown, London, 1972–1978, Ph. Martin Charles, RIBA Collections.
 
+![image](https://github.com/user-attachments/assets/7970b074-4380-4683-aa99-e7573a05b73b)
+Figure 5:Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicolas Laisné, Dimitri Roussel, OXO Architectes, Montpellier, 2019.  
+
 
 
