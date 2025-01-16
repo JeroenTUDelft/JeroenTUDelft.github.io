@@ -3,19 +3,10 @@
 ## Networks
 ### Network per usergroup
 
-
-
-[![Videotitel](https://img.youtube.com/vi/TggA3WgBg3g/0.jpg)](https://www.youtube.com/watch?v=TggA3WgBg3g)
-
-
 ![image](https://github.com/user-attachments/assets/db70eecb-b0b0-413e-94b2-be5fa4bab5d9)
 ![image](https://github.com/user-attachments/assets/025d6f99-ebe8-405c-8d8e-0f20f63f21e6)
 ![image](https://github.com/user-attachments/assets/0b1a3e24-0195-4f74-b230-9cb681e958f0)
 ![image](https://github.com/user-attachments/assets/f656d21f-45b1-4589-b6d9-cf350bf6caad)
-
-
-
-
 
 ## Voxelsize
 We based our voxel size on the question of what is the “minimum liveable space”?.  
@@ -36,7 +27,7 @@ Author and designer Bruno Munari provides an interesting reflection on the tradi
 ![image](https://github.com/user-attachments/assets/4f01ff2e-422e-496c-86dd-59f86dcc6961)
 ![image](https://github.com/user-attachments/assets/44d8e5a3-aae5-4bfb-8944-da65985604b7)
 
-
+![Bubbeldiagram-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/02d1149b-8a7f-4c2f-8b26-1c91ac47244c)
 
 
 
