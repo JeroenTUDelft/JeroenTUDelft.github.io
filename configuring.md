@@ -31,7 +31,7 @@ Author and designer Bruno Munari provides an interesting reflection on the tradi
 ![image](https://github.com/user-attachments/assets/4f01ff2e-422e-496c-86dd-59f86dcc6961)
 ![image](https://github.com/user-attachments/assets/44d8e5a3-aae5-4bfb-8944-da65985604b7)
 
-![](https://github.com/user-attachments/assets/974e83f4-34a8-4e3e-afd7-8e762b267eb5)
+v
 
 
 
