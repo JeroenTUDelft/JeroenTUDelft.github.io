@@ -74,6 +74,9 @@ The two coloured noise maps indicate that the high-traffic roads and the railway
 
 ![image](https://github.com/user-attachments/assets/cb6d5276-21d8-41d3-a3bd-8fa640ef1e1f)
 
+## REL-Chart
+![image](https://github.com/user-attachments/assets/5d33f809-3194-43ed-8c41-a61a236a0b3d)
+
 ## Bubblediagram's per floor
 ### Bubble diagram for groundfloor functions configuration 1
 ![image](https://github.com/user-attachments/assets/71954f17-671f-4532-8dc4-6d5fd7451b28)
