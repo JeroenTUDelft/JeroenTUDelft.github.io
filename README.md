@@ -39,13 +39,9 @@ Starter units: as a starter, I want my family to feel as safe as possible and ma
 
 
 
-![video](https://github.com/user-attachments/assets/1e83dbcc-5246-4a68-bf92-71807ebf5188)
+![video](https://github.com/user-attachments/assets/89507ecf-2848-4dbb-9456-db0bd8fac603)
 
-![image](https://github.com/user-attachments/files/18399030/Gradiant.chart.funtion.to.function.pdf)
-![image](https://github.com/user-attachments/files/18399031/flowchart.students.movement.pdf)
-![image](https://github.com/user-attachments/files/18399032/flowchart.starters.movement.pdf)
-![image](https://github.com/user-attachments/files/18399033/flowchart.program.connection.pdf)
-![image](https://github.com/user-attachments/files/18399034/flowchart.elders.movement.pdf)
+
 ![image](https://github.com/user-attachments/assets/4f01ff2e-422e-496c-86dd-59f86dcc6961)
 ![image](https://github.com/user-attachments/assets/44d8e5a3-aae5-4bfb-8944-da65985604b7)
 
