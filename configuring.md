@@ -2,7 +2,7 @@
 #  Configuring
 ## Networks
 ### Network per usergroup
-![video](https://www.youtube.com/watch?v=TggA3WgBg3g)
+
 
 
 
