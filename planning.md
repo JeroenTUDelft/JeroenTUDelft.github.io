@@ -15,7 +15,9 @@ As you can see here, there are only 2 libraries near the Schieblock and they are
 ![sunblocking](https://github.com/user-attachments/assets/df03ed49-011d-4b9d-a151-8d695bc79468)
 
 ![noise2](https://github.com/user-attachments/assets/8d0dff9a-2670-41cb-9cc0-131ef3c67951)
+Kaarten | Atlas Leefomgeving. (z.d.). https://www.atlasleefomgeving.nl/kaarten
 ![noise1](https://github.com/user-attachments/assets/0d1a684d-7b5d-4c83-a4a1-f978e6a3889c)
+Geluidbelastingkaart Rotterdam. (z.d.). https://dcmr.webgis.nl/nl/workspace/dcmr-milieudienst-rijnmond/map/geluidsbelastingskaart-rotterdam
 The two coloured noise maps indicate that the high-traffic roads and the railways create the most noise. Since the Schieblock is surrounded by these factors of all four sides except for the west side, the west side is the best area to place the residents who seek more rest. To add to this, the vivid entertainment center with bars and discotheques is also located on the east side of the building. This again creates the best chance to rest on the west side of the building.
 
 
