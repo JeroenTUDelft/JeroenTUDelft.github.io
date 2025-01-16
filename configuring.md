@@ -3,10 +3,11 @@
 ## Networks
 ### Network per usergroup
 
-![image](https://github.com/user-attachments/assets/db70eecb-b0b0-413e-94b2-be5fa4bab5d9)
+![image](https://github.com/user-attachments/assets/d87dd5f0-65a9-4f2e-9734-ee8c5f6e7805)
 ![image](https://github.com/user-attachments/assets/025d6f99-ebe8-405c-8d8e-0f20f63f21e6)
 ![image](https://github.com/user-attachments/assets/0b1a3e24-0195-4f74-b230-9cb681e958f0)
-![image](https://github.com/user-attachments/assets/f656d21f-45b1-4589-b6d9-cf350bf6caad)
+![image](https://github.com/user-attachments/assets/d0e4b888-939b-45e7-92bb-2c18753b7837)
+
 
 ## Voxelsize
 We based our voxel size on the question of what is the “minimum liveable space”?.  
