@@ -2,7 +2,7 @@
 #  Configuring
 ## Networks
 ### Network per usergroup
-![video](https://github.com/user-attachments/assets/4f2a49f0-09ed-47e3-ba11-83addc7c987a)
+![video](https://www.youtube.com/watch?v=TggA3WgBg3g)
 
 
 
