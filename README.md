@@ -13,7 +13,7 @@ Teacher : Hans Hoogenboom
 In this report we will be discussing our design process for a new multipurpose apartment-building in the heart of Rotterdam. We will start with defining the user scenario's and enlighting the choises made for these scenario's. After this the design of building components en layout of the building. After this we will go over how the mass was turned into an actual building. This will be continued by the explanation of designing the surrounding area and lastly how the building has been textured and visualized.
 
 
-User scenarios per group:  
+## User scenarios per group  
 
 ![minor self contained student](https://github.com/user-attachments/assets/67cedbe7-c028-4736-b0cb-f9a77493f722)
 
@@ -37,6 +37,8 @@ Self-contained elderly units: as an independent senior, I want a parking spot an
 
 Starter units: as a starter, I want my family to feel as safe as possible and make our lives more convenient. This means that our apartment must at least be 50 m2 with some extra storage space and a balcony included. The extra storage space doesn’t need to be on our floor.  As starters my partner and I are ambitious and very busy. A room for a potential child is not necessary because we don’t want to have our child growing up in a large building with students. We like our rest and privacy but  don’t want to feel like we’re living alone. Some casual contact between the other residents is what we like. So the possibility to chat with the students or help the elderly in a communal area would be nice. As long as we can park our car in a carpark that’s in direct contact with the building itself by stares or an elevator. As our lives are busy, we want the facilities ( coffee corner, supermarket, laundry units and communal area ) to be nearby. We don’t want to be disturbed by the chaos that’s brought by the students. 
 
+## REL-Chart
+![image](https://github.com/user-attachments/assets/5d33f809-3194-43ed-8c41-a61a236a0b3d)
 
 
 
