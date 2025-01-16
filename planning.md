@@ -1,4 +1,4 @@
-# planning
+# Planning
 
 ![restaurants](https://github.com/user-attachments/assets/1a9647ca-d9e8-43f2-973b-e054fce50a97)
 We chose to not add a restaurant, since there are plenty of restaurants in the neighbourhood.
