@@ -71,3 +71,6 @@ The two coloured noise maps indicate that the high-traffic roads and the railway
 ## Ussage
 
 ![tabel ussage per usergroup](https://github.com/user-attachments/assets/2499add3-7bdd-472c-a935-00883f596c64)
+
+![image](https://github.com/user-attachments/assets/cb6d5276-21d8-41d3-a3bd-8fa640ef1e1f)
+
