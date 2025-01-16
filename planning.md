@@ -1,5 +1,24 @@
 # planning
 
+![restaurants](https://github.com/user-attachments/assets/1a9647ca-d9e8-43f2-973b-e054fce50a97)
+We chose to not add a restaurant, since there are plenty of restaurants in the neighbourhood.
+![accessibility](https://github.com/user-attachments/assets/a83c8acb-9ba0-4623-9255-2abfde5cdf30)
+The Schieblock is also located near lots of public transportation stops. This creates various possibilities of entrance placement, keeping the dependent elderly and minimum walking distance in mind.
+![gyms](https://github.com/user-attachments/assets/984b5860-e180-47a4-bb34-02d4dcd904c3)
+The Schieblock is located among various gyms and other sportscentres, which lead us to the decision to not add a gym in our building.
+![grocerystores](https://github.com/user-attachments/assets/dc39fa4f-90b4-482c-9a07-ff0a90d4e1f1)
+The supermarkets are relatively close to the Schieblock. However, for the dependent elderly, they could be quite far away if they go by foot. We chose to add a small supermarket in our building for the daily groceries, to make our building more accessible. Not only for the dependent elderly, but also for other residents that need some extra groceries
+![libraries](https://github.com/user-attachments/assets/fc8ab859-0e7e-40bb-ae26-7461e687988a)
+As you can see here, there are only 2 libraries near the Schieblock and they are still quite far away. We chose to add a library with coffee corner to our building to increase interaction among all residents (young and old) and to make it easier to enjoy a good book. This can be a great moment of rest or a motivator to study.
+
+![sunblocking_after](https://github.com/user-attachments/assets/4fd593c7-7b20-4d33-9a1a-d91a8e2c28a6)
+![sunblocking](https://github.com/user-attachments/assets/df03ed49-011d-4b9d-a151-8d695bc79468)
+
+![noise2](https://github.com/user-attachments/assets/8d0dff9a-2670-41cb-9cc0-131ef3c67951)
+![noise1](https://github.com/user-attachments/assets/0d1a684d-7b5d-4c83-a4a1-f978e6a3889c)
+The two coloured noise maps indicate that the high-traffic roads and the railways create the most noise. Since the Schieblock is surrounded by these factors of all four sides except for the west side, the west side is the best area to place the residents who seek more rest. To add to this, the vivid entertainment center with bars and discotheques is also located on the east side of the building. This again creates the best chance to rest on the west side of the building.
+
+
 ## List of facilities/spaces and respective size
 
 1. Lobby: 100m2 
