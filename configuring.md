@@ -23,3 +23,10 @@ Author and designer Bruno Munari provides an interesting reflection on the tradi
 ![image](https://github.com/user-attachments/assets/49525ce1-9e33-4c57-bf06-6f5c11b8b940)
 
 ![image](https://github.com/user-attachments/assets/30366f0b-96d8-480c-b7fc-f9433871728c)
+
+
+## Bubbeldiagram
+
+
+![image](https://github.com/user-attachments/assets/4f01ff2e-422e-496c-86dd-59f86dcc6961)
+![image](https://github.com/user-attachments/assets/44d8e5a3-aae5-4bfb-8944-da65985604b7)
