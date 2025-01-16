@@ -31,7 +31,7 @@ Author and designer Bruno Munari provides an interesting reflection on the tradi
 ![image](https://github.com/user-attachments/assets/4f01ff2e-422e-496c-86dd-59f86dcc6961)
 ![image](https://github.com/user-attachments/assets/44d8e5a3-aae5-4bfb-8944-da65985604b7)
 
-[![video](https://github.com/JeroenTUDelft/JeroenTUDelft.github.io/raw/refs/heads/main/Bubbel%20diagram%20(2).mp4]
+[![video](https://github.com/user-attachments/assets/4f2a49f0-09ed-47e3-ba11-83addc7c987a)]
 
 
 
