@@ -12,7 +12,12 @@ Teacher : Hans Hoogenboom
 
 In this report we will be discussing our design process for a new multipurpose apartment-building in the heart of Rotterdam. We will start with defining the user scenario's and enlighting the choises made for these scenario's. After this the design of building components en layout of the building. After this we will go over how the mass was turned into an actual building. This will be continued by the explanation of designing the surrounding area and lastly how the building has been textured and visualized.
 
-
+[Planning]
+[Configuring]
+[Massing]
+[Forming]
+[Water]
+[Reflections]
 ## User scenarios per group  
 
 ![minor self contained student](https://github.com/user-attachments/assets/67cedbe7-c028-4736-b0cb-f9a77493f722)
