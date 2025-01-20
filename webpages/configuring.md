@@ -1,4 +1,4 @@
-# configuring
+# Configuring
 ## Networks
 ### Network per usergroup
 
