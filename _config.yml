@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+title: Rotterdam's Golden View
+description: Bob's Building crew for Schiestraat Rotterdam
+url: "https://JeroenTUDelft.github.io"
+
 nav:
   - title: "Rotterdam's Golden View"
     url: ""
@@ -14,4 +17,5 @@ nav:
     url: "/webpages/water.md"
   - title: "Reflections"
     url: "/webpages/reflections.md"
-    
+
+theme: jekyll-theme-cayman
