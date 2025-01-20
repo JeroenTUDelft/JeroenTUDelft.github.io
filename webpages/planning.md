@@ -1,5 +1,14 @@
 # Planning
 
+
+- [Home](https://jeroentudelft.github.io/)
+- [Planning](https://jeroentudelft.github.io/webpages/planning)
+- [Configuring](https://jeroentudelft.github.io/webpages/configuring)
+- [Massing](https://jeroentudelft.github.io/webpages/massing)
+- [Forming](https://jeroentudelft.github.io/webpages/forming)
+- [Water](https://jeroentudelft.github.io/webpages/water)
+- [Reflections](https://jeroentudelft.github.io/webpages/reflections)
+
 ![restaurants](https://github.com/user-attachments/assets/1a9647ca-d9e8-43f2-973b-e054fce50a97)
 We chose to not add a restaurant, since there are plenty of restaurants in the neighbourhood.
 ![accessibility](https://github.com/user-attachments/assets/a83c8acb-9ba0-4623-9255-2abfde5cdf30)
