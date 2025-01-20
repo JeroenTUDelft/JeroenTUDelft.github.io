@@ -1,4 +1,7 @@
-# forming
+---
+layout: layout
+title: Forming
+---
 
 
 ## Design principles
