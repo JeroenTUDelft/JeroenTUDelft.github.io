@@ -1,7 +1,4 @@
----
-layout: layout
-title: Configuring
----
+# configuring
 ## Networks
 ### Network per usergroup
 
