@@ -1,13 +1,1 @@
 theme: jekyll-theme-cayman
-
-header_pages:
-  - title: "Home"
-    url: "/"
-  - title: "planning"
-    url: "/planning"
-  - title: "configuring"
-    url: "/configuring"
-  - title: "massing"
-    url: "/massing"
-  - title: "forming"
-    url: "/forming"
