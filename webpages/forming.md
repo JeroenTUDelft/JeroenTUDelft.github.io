@@ -1,9 +1,4 @@
----
-layout: layout
-title: Forming
----
-
-
+# Forming
 ## Design principles
 Design Principles order of hierarchy [requirement]
 1. Leaning into “golden view”:
