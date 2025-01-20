@@ -1,5 +1,7 @@
-
-#  Configuring
+---
+layout: layout
+title: Configuring
+---
 ## Networks
 ### Network per usergroup
 
