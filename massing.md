@@ -1,4 +1,7 @@
-# Massing
+---
+layout: layout
+title: Massing
+---
 
 ## Criteria
 List of criteria in order of hierarchy and respective quantification: define 
