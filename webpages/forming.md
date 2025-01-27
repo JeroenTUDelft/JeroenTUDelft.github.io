@@ -50,5 +50,13 @@ Figure 5: Alexandra Road Estate seen from railway line, Arch. Neave Brown, Londo
 ![image](https://github.com/user-attachments/assets/7970b074-4380-4683-aa99-e7573a05b73b)
 Figure 5:Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicolas Laisné, Dimitri Roussel, OXO Architectes, Montpellier, 2019.  
 
+![image](https://github.com/user-attachments/assets/3d635766-6e0b-42f9-93ff-556d08e98ada)
+
+
+
+
+![plattegrond begande grond](https://github.com/user-attachments/files/18561250/plattegrond.begande.grond.studio.s.1.pdf)
+![legenda platte gronden](https://github.com/user-attachments/assets/9742cea6-52b0-40fa-8d35-afff79c16ffa)
+
 
 
