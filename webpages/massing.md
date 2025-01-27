@@ -26,4 +26,8 @@ List of criteria in order of hierarchy and respective quantification: define
 13. far_assisted_living_elderly_unit: maximize euclidean distance from function Assisted-Living Elderly Unit.
 14. a_shared_kitchen/livingroom: minimize horizontal distance from Shared Kitchen/Living Room (floor-shared) to function.
 15. a_laundryroom: minimize horizontal distance from Laundry Room to function.
-16. a_carecentre: minimize horizontal distance from Care Centre to function. 
+16. a_carecentre: minimize horizontal distance from Care Centre to function.
+
+
+![image](https://github.com/user-attachments/assets/9c20f569-d3b2-43f7-b932-4b8309d81361)
+
