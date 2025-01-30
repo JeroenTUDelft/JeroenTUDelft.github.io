@@ -92,7 +92,6 @@ Figure 4: roof garden from motion picture High-Rise, Dir. Ben Wheatley, 2015, ba
 
 ![tiles _2](https://github.com/user-attachments/assets/88dc7a99-c420-4667-afe3-6ca5d3cc2cbe)
 
-![tiles_3](https://github.com/user-attachments/assets/35991aa0-b025-41fd-bd9a-b78bc52a9f2e)
 
 
 
