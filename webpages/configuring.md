@@ -8,12 +8,18 @@
 - [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/waterandenergycalculations)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 ## Networks
+
+
 ### Network per usergroup
 
 ![image](https://github.com/user-attachments/assets/d87dd5f0-65a9-4f2e-9734-ee8c5f6e7805)
+Figure 1 : 
 ![image](https://github.com/user-attachments/assets/025d6f99-ebe8-405c-8d8e-0f20f63f21e6)
+Figure 1 : 
 ![image](https://github.com/user-attachments/assets/0b1a3e24-0195-4f74-b230-9cb681e958f0)
+Figure 1 : 
 ![image](https://github.com/user-attachments/assets/d0e4b888-939b-45e7-92bb-2c18753b7837)
+Figure 1 : 
 
 
 ## Voxelsize
@@ -21,23 +27,23 @@ We based our voxel size on the question of what is the “minimum liveable space
 Author and designer Bruno Munari provides an interesting reflection on the traditional Japanese house as follows: 
 “The proportions of the rooms are expressed in tatami: [a mat of fine and tightly woven straw […] its size about three foot by six [91*182cm], the size of a man lying down.], so that a two-tatami room is about six foot by six [182*182cm], an eight-tatami room is twelve by twelve [366*366] and so on. […] The rooms are about eight feet [244cm] high, so that when one lies in bed there is not a great yawning void above one.”1, which we used and adjusted to Dutch upper median (average height of men in upper median in 2020 above 19 year’s old, 194cm tall), and further standardized to arrive at a three-by-three-by-three meter voxel.
 
-
-![image](https://github.com/user-attachments/assets/43bab92e-0e45-41c1-8630-63132edb0ead)
-
-![image](https://github.com/user-attachments/assets/49525ce1-9e33-4c57-bf06-6f5c11b8b940)
-
-![image](https://github.com/user-attachments/assets/30366f0b-96d8-480c-b7fc-f9433871728c)
+![voxelsize](https://github.com/user-attachments/assets/a2f754a6-8ac9-4d95-a2ee-8810c5068083)
+Figure 1 : 
 
 
 ## Bubbeldiagram
 
 
 ![image](https://github.com/user-attachments/assets/4f01ff2e-422e-496c-86dd-59f86dcc6961)
+Figure 1 : 
+
+
 ![image](https://github.com/user-attachments/assets/44d8e5a3-aae5-4bfb-8944-da65985604b7)
+Figure 1 :
+
 
 ![Bubbeldiagram-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/02d1149b-8a7f-4c2f-8b26-1c91ac47244c)
-
-
+Figure 1 : 
 
 
 
