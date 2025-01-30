@@ -20,8 +20,6 @@ The supermarkets are relatively close to the Schieblock. However, for the depend
 ![libraries](https://github.com/user-attachments/assets/fc8ab859-0e7e-40bb-ae26-7461e687988a)
 As you can see here, there are only 2 libraries near the Schieblock and they are still quite far away. We chose to add a library with coffee corner to our building to increase interaction among all residents (young and old) and to make it easier to enjoy a good book. This can be a great moment of rest or a motivator to study.
 
-![sunblocking_after](https://github.com/user-attachments/assets/4fd593c7-7b20-4d33-9a1a-d91a8e2c28a6)
-![sunblocking](https://github.com/user-attachments/assets/df03ed49-011d-4b9d-a151-8d695bc79468)
 
 ![noise2](https://github.com/user-attachments/assets/8d0dff9a-2670-41cb-9cc0-131ef3c67951)
 Kaarten | Atlas Leefomgeving. (z.d.). https://www.atlasleefomgeving.nl/kaarten
