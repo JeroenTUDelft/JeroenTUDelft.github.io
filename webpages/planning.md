@@ -75,7 +75,7 @@ The two coloured noise maps indicate that the high-traffic roads and the railway
 21. Lift Shaft/Stairs
 
 
-## Ussage
+## Usage
 
 ![tabel ussage per usergroup](https://github.com/user-attachments/assets/2499add3-7bdd-472c-a935-00883f596c64)
 
