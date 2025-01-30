@@ -15,7 +15,7 @@ Teacher : Hans Hoogenboom, Monica Palfy, Ákos Sárkány
 - [Configuring](https://jeroentudelft.github.io/webpages/configuring)
 - [Massing](https://jeroentudelft.github.io/webpages/massing)
 - [Forming](https://jeroentudelft.github.io/webpages/forming)
-- [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/water)
+- [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/waterandenergycalculations)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 
 In this report we will be discussing our design process for a new multipurpose apartment-building in the heart of Rotterdam. We will start with defining the user scenario's and enlighting the choises made for these scenario's. After this the design of building components en layout of the building. After this we will go over how the mass was turned into an actual building. This will be continued by the explanation of designing the surrounding area and lastly how the building has been textured and visualized.
