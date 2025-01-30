@@ -41,7 +41,7 @@ Figure 4 : Image for design principle: Leaning into “golden view” : image 1:
 
 
 ## Sections
-After the Growing Algorithm placed every function in it's desired place in the building - shown in the animation on the massing page - the file stil consisted of a few loose voxels with badly placed functions. For instance assigning a single voxel with a elderly dorm function whilst it's surrounded by voxels with a different function. To make sure the building has a logical distribution of functions we manually scanned the sections of the grown voxelcloud and worked away as much 'rough edges' as possible. The result of this is shown below.  
+After the Growing Algorithm successfully allocated each function to its designated location within the building — shown in the animation on the massing page — the resulting file still contained a few misaligned voxels with poorly assigned functions. For example, some voxels intended for specific functions, such as an elderly dormitory, were positioned next to voxels designated for entirely different uses. To ensure a more logical distribution of functions, we manually reviewed the sections of the grwon voxelcloud and refined the layout, addressing any inconsistencies and removing "rough edges." The final, optimized result is found below.
 
 ![platte grond begane grond](https://github.com/user-attachments/assets/8d9b775e-fed7-478d-b8fb-e11d6f0d11f9)
 Figure 5 : Floorplan for groundfloor.
@@ -73,7 +73,7 @@ Figure 10 : Section of 14th row of grown voxelcloud.
 
 
 
-To give a clearer and more realistic view of the building, we added these textured floorplans and sections. In the first image you see a detailed floorplan of the communal library and roofgarden. In this case furniture, trees, doors & windows and people were added to give a clearer and more realistic view of the possible layout of the space. The next image shows a more detailed section of the 23rd column of grown voxels. Here stares, elevatorshafts and cars have been added. The final iamage shows a general 'birds eye'-view of the building in the surrounding area.
+To provide a clearer and more realistic representation of the building, we’ve included textured floorplans and sections. The first image features a detailed floorplan of the communal library and rooftop garden, with furniture, trees, doors, windows, and people added to offer a more accurate sense of the space’s layout. The second image present a section of the 23rd column of the grown voxelcloud, incorporating elements such as stairs, elevator shafts, and cars. The final image shows a bird's-eye view of the building in its surrounding area, giving a more detailed view by adding the layout of the roofgarden and distribution of solarpanels.
  
 ![floorplan library](https://github.com/user-attachments/assets/0dfe2269-1fa4-4f7f-824c-7968f57d25eb)
 Figure 11 : Detailed floorplan for the communal library and roofgarden.
@@ -81,7 +81,7 @@ Figure 11 : Detailed floorplan for the communal library and roofgarden.
 
 
 ![section haaks](https://github.com/user-attachments/assets/3d635766-6e0b-42f9-93ff-556d08e98ada)
-Figure 12 : Detailed section of the 23rd column of grown voxels.
+Figure 12 : Detailed section of the 23rd column of the grown voxelcloud.
 
 
 
