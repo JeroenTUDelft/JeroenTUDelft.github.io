@@ -29,7 +29,7 @@ List of criteria in order of hierarchy and respective quantification: define
 16. a_carecentre: minimize horizontal distance from Care Centre to function.
 
 
-![image](https://github.com/user-attachments/assets/9c20f569-d3b2-43f7-b932-4b8309d81361)
+![flowchart closeness groundlevel analyse](https://github.com/user-attachments/assets/9c20f569-d3b2-43f7-b932-4b8309d81361)
 
 
 
