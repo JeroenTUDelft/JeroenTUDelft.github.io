@@ -10,60 +10,23 @@
 
   
 ## Design principles
-Design Principles order of hierarchy [requirement]
-1. Leaning into “golden view”:
-   - Progressive displacement towards “golden view”.
-2. Focus on communal and green/exterior space:
-   - a. Roof Garden/planter placement:
-      - i. to increase biodiversity
-      - ii. ensure a green area equal to total surface,
-      - iii. collection of for one month water autonomy: garden irrigation and toilet water.
-   - b. Balcony placement per living unit:
-      - i. optimize sunlight and
-      - ii. maximize unit-to-unit privacy.
-   - c. Designation of 20% of building area to communal space, promoting interaction among residents, in the creation of:
-      - i. a Communal Library/Coffee Corner 
-      - ii. practical areas, such as a grocery Store, laundry room(s) and a care centre
-      - iii. a Shared Kitchen/Livingroom on every floor.
-   - d. Strategic placement:
-      - i. of communal and or public facilities to facilitate and promote access 
-      - ii. of living units, to promote integration and prevent possible discomfort/nuisance between groups or external conditions (i.e.: elderly separated from students, elderly away from biergarten)
-3. Integrating with surrounding buildings/context by:
-   - a. ensuring a minimum of 2 hours of sunlight to surrounding buildings, based on sun-path calculations and building heights,
-   - b. minimising wind pollution: (rule of thumb) setting maximum height less than double the height of surrounding buildings,
-   - c. building typology/rules:
-      - i. big windows,
-      - ii. structured rhythmic façade.
-4. Powering of communal area lighting up to 100% through the installation of solar panels.
+
+Our design of the Schieblock proposal stemmed from three main branches: a focus on communal and green/exterior space, an integration with surrounding buildings/context, and a leaning into the "golden view". 
 
 
-## Design principles
+The flowchart bellow illustrates how the before mentioned design principles were integrated with the programme of requirements of the project. 
 
-### Leaning in to golden view
+![flowchart](https://github.com/user-attachments/assets/908962b3-a9b8-4a35-9ad7-d8aaa0292659)
 
-![image](https://github.com/user-attachments/assets/280817c3-218a-45f6-8a82-4b2d61287409)
+### Design principle: Focus on communal & green/exterior space
+We incorporated green and exterior space by means of garden and planter placements in the inner cave and roof of the building. Additionally, variations of balcony types (based on orientation and resident-type), were assigned per living-unit, maximizing the possibility of contact with the exterior and greenery that is often a challenge in multi-story development projects.
 
+![images for designprinciple focus on communal space](https://github.com/user-attachments/assets/0307614c-fbc4-4673-a5a0-273a1a96ef24)
 
-Figure 1: Alexandra Road Estate under construction, Arch. Neave Brown, London, 1972–1978, RIBA Collections. 
+Image 1: roof garden from motion picture High-Rise, Dir. Ben Wheatley, 2015, based on novel by JG Ballard (1975).
+Image 2: Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicolas Laisné, Dimitri Roussel, OXO Architectes, Montpellier, 2019. 
+Image 3: Zanhof playground, Aldo van Eyck, 1948.
 
-![image](https://github.com/user-attachments/assets/dfb5421e-1c93-45a7-bc7f-8cbef7ff0a78)
-
-
-Figure 2: Alexandra Road Estate seen from railway line, Arch. Neave Brown, London, 1972–1978, Ph. Martin Charles, RIBA Collections.
-
-
-
-### Balcony placement
-![image](https://github.com/user-attachments/assets/7970b074-4380-4683-aa99-e7573a05b73b)
-
-
-Figure 3: Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicolas Laisné, Dimitri Roussel, OXO Architectes, Montpellier, 2019.  
-
-### Roofgarden / Panter placement
-
-![image](https://github.com/user-attachments/assets/695a0992-73df-40a5-85af-6fe690a41afa)
-
-Figure 4: roof garden from motion picture High-Rise, Dir. Ben Wheatley, 2015, based on novel by JG Bal-lard (1975).
 
 ## Sections
 
