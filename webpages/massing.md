@@ -29,6 +29,10 @@ List of criteria in order of hierarchy and respective quantification: define
 16. a_carecentre: minimize horizontal distance from Care Centre to function.
 
 
+## Voxelgrid
+![flowchart voxelgrid](https://github.com/user-attachments/assets/ef53a7e6-c50b-4019-8a75-56e8264fa843)
+
+
 ## Analyses
 
 ### Golden View Analysis
