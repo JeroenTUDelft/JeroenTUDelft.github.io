@@ -13,8 +13,8 @@ nav:
     url: "/webpages/massing/"
   - title: "Forming"
     url: "/webpages/forming/"
-  - title: "Water"
-    url: "/webpages/water/"
+  - title: "Water and Energy Calculations"
+    url: "/webpages/water and energy calculations.md/"
   - title: "Reflections"
     url: "/webpages/reflections/"
 
