@@ -31,3 +31,13 @@ List of criteria in order of hierarchy and respective quantification: define
 
 ![image](https://github.com/user-attachments/assets/9c20f569-d3b2-43f7-b932-4b8309d81361)
 
+
+
+![flowchart sound analyse](https://github.com/user-attachments/assets/1cc7d9a1-23ea-47dc-a265-b34a1d41cdde)
+
+![flowchart golden view analyse](https://github.com/user-attachments/assets/7fa5edc2-b345-4aaa-9a8b-d78677dfbe7f)
+
+
+
+
+
