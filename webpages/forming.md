@@ -72,6 +72,14 @@ Figure 5:Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicola
 
 ![urban plan](https://github.com/user-attachments/assets/9248ab5b-8794-40e1-859d-0a11da572201)
 
+## Tiles
+
+![tiles_ 1](https://github.com/user-attachments/assets/a16183cd-de14-4095-903d-8466b84ffff2)
+
+![tiles _2](https://github.com/user-attachments/assets/88dc7a99-c420-4667-afe3-6ca5d3cc2cbe)
+
+
+
 
 
 ## Renders
