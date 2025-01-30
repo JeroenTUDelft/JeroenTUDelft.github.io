@@ -8,7 +8,7 @@ By Bob's building crew:
 - Keenan Garmers
 - Jeroen Peek
 
-Teacher : Hans Hoogenboom
+Teacher : Hans Hoogenboom, Monica Palfy, Ákos Sárkány
 
 - [Home](https://jeroentudelft.github.io/)
 - [Planning](https://jeroentudelft.github.io/webpages/planning)
