@@ -5,7 +5,7 @@
 - [Configuring](https://jeroentudelft.github.io/webpages/configuring)
 - [Massing](https://jeroentudelft.github.io/webpages/massing)
 - [Forming](https://jeroentudelft.github.io/webpages/forming)
-- [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/water)
+- [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/waterandenergycalculations)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 ## Networks
 ### Network per usergroup
