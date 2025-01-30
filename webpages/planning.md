@@ -6,7 +6,7 @@
 - [Configuring](https://jeroentudelft.github.io/webpages/configuring)
 - [Massing](https://jeroentudelft.github.io/webpages/massing)
 - [Forming](https://jeroentudelft.github.io/webpages/forming)
-- [Water](https://jeroentudelft.github.io/webpages/water)
+- [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/water)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 
 ![restaurants](https://github.com/user-attachments/assets/1a9647ca-d9e8-43f2-973b-e054fce50a97)
