@@ -37,7 +37,18 @@ List of criteria in order of hierarchy and respective quantification: define
 
 ![flowchart sun analyses](https://github.com/user-attachments/assets/ceaf1208-9ef9-4cf9-876a-8e61e91ed576)
 
+## Growing Algorithm
 ![flowchart growing algorithm](https://github.com/user-attachments/assets/d68b7fa3-2fef-4703-b31a-1359d3efb65a)
+
+![gif van growing algorithm](https://github.com/user-attachments/assets/f74af914-3e92-4ac8-963b-1e35cedc15ec)
+
+
+
+
+
+
+
+
 
 
 
