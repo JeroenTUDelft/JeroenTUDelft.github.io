@@ -59,4 +59,4 @@ Figure 5:Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicola
 ![legenda platte gronden](https://github.com/user-attachments/assets/9742cea6-52b0-40fa-8d35-afff79c16ffa)
 
 
-
+![floorplan library](https://github.com/user-attachments/assets/0dfe2269-1fa4-4f7f-824c-7968f57d25eb)
