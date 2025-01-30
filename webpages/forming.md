@@ -54,17 +54,24 @@ Figure 5:Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicola
 ## Sections
 
 
-![platte grond begane grond](https://github.com/user-attachments/assets/5a4dbc10-1dc1-4882-921c-cd3882138a4f)
+![platte grond 10e verdieping](https://github.com/user-attachments/assets/0733144e-2aae-440e-a7a7-e2b80e8bee88)
 
+![platte grond begane grond](https://github.com/user-attachments/assets/8d9b775e-fed7-478d-b8fb-e11d6f0d11f9)
 
-![platte grond 10e verdieping](https://github.com/user-attachments/assets/a05499be-6f72-4a74-aff1-4e8b852d2fb5)
+![section 4](https://github.com/user-attachments/assets/0fefef49-78de-488b-83c4-5bdabeb11047)
 
-![legenda platte gronden](https://github.com/user-attachments/assets/9742cea6-52b0-40fa-8d35-afff79c16ffa)
+![sections 3](https://github.com/user-attachments/assets/1835cf9e-830d-4580-9301-652763f42dbe)
 
+![sections 2](https://github.com/user-attachments/assets/108479f3-1dfd-42a1-a62d-1966b761f533)
+
+![sections 1](https://github.com/user-attachments/assets/4fb11de2-5458-4aad-b22a-3049ddfb8f74)
 
 ![floorplan library](https://github.com/user-attachments/assets/0dfe2269-1fa4-4f7f-824c-7968f57d25eb)
 
 ![section haaks](https://github.com/user-attachments/assets/3d635766-6e0b-42f9-93ff-556d08e98ada)
+
+![urban plan](https://github.com/user-attachments/assets/9248ab5b-8794-40e1-859d-0a11da572201)
+
 
 
 ## Renders
