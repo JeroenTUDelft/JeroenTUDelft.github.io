@@ -57,13 +57,26 @@ Figure 1 :
 
 This analysis calculates the amount of shadow our building gets due to sun blocking of surrounding buildings. It looks very similar to the first one, only this one does not work with a threshold. It does not delete any voxels, it only adds data to the voxels, later to be used to place the functions. The number of hits per voxel is normalized to a scale of 0 to 1. This creates a gradient as a result. 
 
-![flowchart sun analyses](https://github.com/user-attachments/assets/ceaf1208-9ef9-4cf9-876a-8e61e91ed576)
+![flowchart sunanalysis](https://github.com/user-attachments/assets/0518221d-9242-450e-9a40-0b5a86ec6bb5)
 
 Figure 1 :
 
+
 ### Blocking Analysis 
 
-The first analysis we did was to check how much our building was blocking sunlight for surrounding buildings. In the flowchart below, you can see the pseudocode for the analysis, called ‘shadowcasting’. You can see that we set a threshold at a certain level of blocking. This explains why the result of this analysis leaves a hole in our voxel cloud. This hole represents all the voxels that block more sunlight than the threshold would allow. This would result in less shadow casting on the buildings on the north side of our building. The before and after are also visualized in the diagrams below. 
+The first analysis we did was to check how much our building was blocking sunlight for surrounding buildings. In the flowchart below, you can see the pseudocode for the analysis, called ‘shadowcasting’. You can see that we set a threshold at a certain level of blocking. This explains why the result of this analysis leaves a hole in our voxel cloud. This hole represents all the voxels that block more sunlight than the threshold would allow. This would result in less shadow casting on the buildings on the north side of our building. The before and after are also visualized in the diagram below. 
+
+![flowchart sunblocking](https://github.com/user-attachments/assets/331c4bfa-338f-4bc5-be10-ed1cfe77e596)
+
+Figure 1 : 
+
+![image sunblockingbefore](https://github.com/user-attachments/assets/f9db1c4e-0050-4d38-bebe-0de3bc2636f2)
+
+Figure 1 : 
+
+![image sunblocking after](https://github.com/user-attachments/assets/e1528edb-21c1-4130-87ff-4d8e3d15f30f)
+
+Figure 1 :
 
 
 
