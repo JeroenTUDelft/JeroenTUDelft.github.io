@@ -32,24 +32,38 @@ Design Principles order of hierarchy [requirement]
    - a. ensuring a minimum of 2 hours of sunlight to surrounding buildings, based on sun-path calculations and building heights,
    - b. minimising wind pollution: (rule of thumb) setting maximum height less than double the height of surrounding buildings,
    - c. building typology/rules:
-      - i. high plint (can be for example 7m high)
-      - ii. big windows,
-      - iii. structured rhythmic façade,
-      - iv. building structure: big columns and arches (mainly visible from ground floor).
+      - i. big windows,
+      - ii. structured rhythmic façade.
 4. Powering of communal area lighting up to 100% through the installation of solar panels.
 
 
-## Reference
+## Design principles
+
+### Leaning in to golden view
 
 ![image](https://github.com/user-attachments/assets/280817c3-218a-45f6-8a82-4b2d61287409)
-Figure 4: Alexandra Road Estate under construction, Arch. Neave Brown, London, 1972–1978, RIBA Collections. 
+
+
+Figure 1: Alexandra Road Estate under construction, Arch. Neave Brown, London, 1972–1978, RIBA Collections. 
 
 ![image](https://github.com/user-attachments/assets/dfb5421e-1c93-45a7-bc7f-8cbef7ff0a78)
-Figure 5: Alexandra Road Estate seen from railway line, Arch. Neave Brown, London, 1972–1978, Ph. Martin Charles, RIBA Collections.
 
+
+Figure 2: Alexandra Road Estate seen from railway line, Arch. Neave Brown, London, 1972–1978, Ph. Martin Charles, RIBA Collections.
+
+
+
+### Balcony placement
 ![image](https://github.com/user-attachments/assets/7970b074-4380-4683-aa99-e7573a05b73b)
-Figure 5:Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicolas Laisné, Dimitri Roussel, OXO Architectes, Montpellier, 2019.  
 
+
+Figure 3: Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicolas Laisné, Dimitri Roussel, OXO Architectes, Montpellier, 2019.  
+
+### Roofgarden / Panter placement
+
+![image](https://github.com/user-attachments/assets/695a0992-73df-40a5-85af-6fe690a41afa)
+
+Figure 4: roof garden from motion picture High-Rise, Dir. Ben Wheatley, 2015, based on novel by JG Bal-lard (1975).
 
 ## Sections
 
@@ -77,6 +91,9 @@ Figure 5:Balconies and façade L’Arbre Blanc tower, Arch. Sou Fujimoto, Nicola
 ![tiles_ 1](https://github.com/user-attachments/assets/a16183cd-de14-4095-903d-8466b84ffff2)
 
 ![tiles _2](https://github.com/user-attachments/assets/88dc7a99-c420-4667-afe3-6ca5d3cc2cbe)
+
+![tiles_3](https://github.com/user-attachments/assets/35991aa0-b025-41fd-bd9a-b78bc52a9f2e)
+
 
 
 
