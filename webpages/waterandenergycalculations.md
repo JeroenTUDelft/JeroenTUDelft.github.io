@@ -42,11 +42,11 @@ Total = 2.079.000 lumens​
 
 2.079.000 / 100 = 20,79 kW​
 
-Assuming lights are on for 12 hours every day of the year   ​
+Assuming lights are on for 12 hours per day & 365 days per year.  ​
 
-yearly demand of energie to power 100% of lights of communal areas : 20,79 * 365 * 12 = 91.060,2 kWh ​
+The yearly demand of energie to power 100% of lights of communal areas : 20,79 * 365 * 12 = 91.060,2 kWh ​
 
-An average solar panel (1,94 m2) makes 327 kWh per year, which equals to 169 kWh/ m2 ​
+An average solar panel (1,94 m2) makes 327 kWh per year, which equals 169 kWh/ m2.​
 
 91.060,2 / 169 = 538,8 m2     ​
 
