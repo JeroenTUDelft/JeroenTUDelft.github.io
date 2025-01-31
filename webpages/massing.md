@@ -11,8 +11,8 @@
 
 
 ## The massing phase consists of:
-1. Criteria
-2. Voxelcloud
+1. Voxelcloud
+2. Criteria
 3. Analyses
    - Blocking analysis
    - Sun analysis
@@ -21,39 +21,41 @@
    - Golden view analysis
 4. Growing algorithm
 
+After all the functions of the building are defined, have been given values for certain parameters and connections between them are defined, we now have a rough estimation of where each fucntion should be placed. To make sure the most efficient distribution of functions is realized, a voxelcloud has to be constructed and analyzed. This is proces is performed in the massing phase of the project.
 
 
-
-## Criteria
-List of criteria in order of hierarchy and respective quantification: define 
-
-2. need_sunlight: maximize number of sun ray hits for function.
-3. need_view: maximize number of hits to view surface for function.
-4. less_noise: maximize euclidean distance from noise point to function: bier garden (<euclidean_distance: noise_point).
-5. closeness_gf: minimize vertical distance from function to Ground Floor.
-
-
-## Voxelcloud
+## 1. Voxelcloud
+In the previous phase of the proces the voxel-size was defined. With this the next step can be performed by building a voxelcloud. The voxelcloud is a large mass consisting of voxels, wich fills the intire site. All the voxels are lined up in a perfect grid to make any further calculations with this voxelcloud more efficient. The proces of building the voxelcloud out of multiple single voxels is displayed by the flowchart below.  
 
 ![flowchart voxelgrid](https://github.com/user-attachments/assets/ef53a7e6-c50b-4019-8a75-56e8264fa843)
 
-figure 1 : 
+figure 1 : Flowchart of making a voxelcloud.
 
 
 ![image voxelcloud1](https://github.com/user-attachments/assets/ae00d09b-782c-48bf-90da-0882c96cffb0)
 
-Figure 2 : 
+Figure 2 : Voxelcloud from a north - east point of view.
 
 
 ![image voxelcloud2](https://github.com/user-attachments/assets/edced869-4f5c-4a4e-8b58-3e53d4c7b562)
 
-Figure 3 :
+Figure 3 : Voxelcloud form a south - west point of view.
+
+
+## 2. Criteria
+Once the voxel cloud is constructed, the next step is to define the criteria for evaluation. Each voxel is assessed based on these criteria through a series of analyses. For every criterion, an analysis is performed, and so each voxel is assigned with a corresponding list of values. Below, the criteria are presented along with their respective quantification.
+
+List of criteria with respective quantification: 
+
+1. Need_sunlight: maximize number of sun ray hits for function.
+2. Need_view: maximize number of hits to view surface for function.
+3. Less_noise: maximize euclidean distance from noise point to function: bier garten (<euclidean_distance: noise_point).
+4. Closeness_gf: minimize vertical distance from function to Ground Floor.
 
 
 
-
-
-## Analyses
+## 3. Analyses
+Now that all the criteria are defined, all the analyses can be performed. In every analysis the voxels that are assigend with a low value for that specific criterium get a red colour, whilst every voxel that is assigned with a high value get a green colour. 
 
 ### Blocking Analysis 
 
@@ -148,7 +150,7 @@ Figure 20 :
 
 
 
-## Growing Algorithm
+## 4. Growing Algorithm
 The growing algorithm consists of two parts. The first part being the search for starting points and the second part being the growing of the functions, which you can see in the flowchart below. 
 
 The imported voxel cloud contains all the data of the earlier performed analysis and stores this per voxel. Together with the data from our function-criterion file, which contains per function the desired value per analysis, the program can compute a weighted product matrix per function. All the points now hold the weighted data. With this data, the program finds the desired starting point per function. 
