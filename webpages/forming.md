@@ -9,8 +9,21 @@
 - [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/waterandenergycalculations)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 
+## The forming phase consists of:
+1. Design principles
+   - Focus on communal & green/exterior space
+   - Integrating with surrounding buildings/context
+   - Leaning into “golden view”
+3. Sections
+   - Schematized sections
+   - Detailed sections
+5. Tiles
+   - Forming tiles
+   - Placing tiles
+7. Renders
+
   
-## Design principles
+## 1. Design principles
 
 Our design of the Schieblock proposal stemmed from three main branches: a focus on communal and green/exterior space, an integration with surrounding buildings/context, and a leaning into the "golden view". 
 
@@ -41,16 +54,18 @@ Figure 4 : Image for design principle: Leaning into “golden view” : image 1:
 
 
 
-## Sections
+## 2. Sections
+
+### Schematized sections
 After the Growing Algorithm successfully allocated each function to its designated location within the building — shown in the animation on the massing page — the resulting file still contained a few misaligned voxels with poorly assigned functions. For example, some voxels intended for specific functions, such as an elderly dormitory, were positioned next to voxels designated for entirely different uses. To ensure a more logical distribution of functions, we manually reviewed the sections of the grwon voxelcloud and refined the layout, addressing inconsistencies and removing "rough edges" to a certain extent. The final, optimized result is found below.
 
 ![platte grond begane grond](https://github.com/user-attachments/assets/8d9b775e-fed7-478d-b8fb-e11d6f0d11f9)
-Figure 5 : Floorplan for groundfloor.
+Figure 5 : Floorplan of groundfloor.
 
 
 
 ![platte grond 10e verdieping](https://github.com/user-attachments/assets/0733144e-2aae-440e-a7a7-e2b80e8bee88)
-Figure 6 : Floorplan for 10th floor.
+Figure 6 : Floorplan of 10th floor.
 
 
 
@@ -73,11 +88,11 @@ Figure 9 : Section of 3rd row of grown voxelcloud.
 Figure 10 : Section of 14th row of grown voxelcloud.
 
 
-
+### Detailed sections
 To provide a clearer and more realistic representation of the building, we’ve included textured floorplans and sections. The first image features a detailed floorplan of the communal library and rooftop garden, with furniture, trees, doors, windows, and people added to offer a more accurate sense of the space’s layout. The second image present a section of the 23rd column of the grown voxelcloud, incorporating elements such as stairs, elevator shafts, and cars. The final image shows a bird's-eye view of the building in its surrounding area, giving a more detailed view by adding the layout of the roofgarden and distribution of solarpanels.
  
 ![floorplan library](https://github.com/user-attachments/assets/0dfe2269-1fa4-4f7f-824c-7968f57d25eb)
-Figure 11 : Detailed floorplan for the communal library and roofgarden.
+Figure 11 : Detailed floorplan of the communal library and roofgarden.
 
 
 
@@ -87,22 +102,22 @@ Figure 12 : Detailed section of the 23rd column of the grown voxelcloud.
 
 
 ![urban plan](https://github.com/user-attachments/assets/9248ab5b-8794-40e1-859d-0a11da572201)
-Figure 13 : Urban plan for Rotterdam's golden view.
+Figure 13 : Urban plan of Rotterdam's golden view.
 
 
 
 
-## Tiles
+## 3. Tiles
 
 ### Forming tiles
 
 A total of eleven tiles were used to clad the façade points of our resulting cloud, based on our three-by-three-by-three meter voxel.  The tiles were designed and applied based on floor level, orientation and function. Window one was designed as a high window tile, to be applied to the "carpark" function. The extended wall space allowed for green façade placement. Window two was applied uniquely at the north and west façade and never at the ground floor, whilst windows three, four and five, being smaller windows were applied at the south and east, hotter sides of our buildings. A similar condition was used for our balcony tiles, placing "balcony wide solar" only on the south and east façades. "Balcony wide" was prioritized for our elderly-dwellers.
 
 ![tiles _1](https://github.com/user-attachments/assets/d2307c74-52d2-4fec-b69f-db744cefa73b)
-Figure 14 :
+Figure 14 : All the window tiles.
 
 ![tiles_ 2](https://github.com/user-attachments/assets/520d6c22-e4c8-4ab3-9396-b5244f0830b0)
-Figure 15 :
+Figure 15 : All the balcony tiles.
 
 
 ### Placing tiles
@@ -116,10 +131,10 @@ Then it’s a matter of assigning each function to their specific tile, also acc
 
 ![flowchart placing tiles](https://github.com/user-attachments/assets/4cd0e4fe-104f-47ce-b5b1-0ca4d3e9367c)
 
-Figure 16 : 
+Figure 16 : Flowchart for placing tiles.
 
 
-## Renders
+## 4. Renders
 
 ![Image24](https://github.com/user-attachments/assets/1f2d84db-c52a-48b1-8989-0b05949a4674)
 Figure 17 :
