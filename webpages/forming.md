@@ -42,7 +42,7 @@ Figure 4 : Image for design principle: Leaning into “golden view” : image 1:
 
 
 ## Sections
-After the Growing Algorithm successfully allocated each function to its designated location within the building — shown in the animation on the massing page — the resulting file still contained a few misaligned voxels with poorly assigned functions. For example, some voxels intended for specific functions, such as an elderly dormitory, were positioned next to voxels designated for entirely different uses. To ensure a more logical distribution of functions, we manually reviewed the sections of the grwon voxelcloud and refined the layout, addressing any inconsistencies and removing "rough edges." The final, optimized result is found below.
+After the Growing Algorithm successfully allocated each function to its designated location within the building — shown in the animation on the massing page — the resulting file still contained a few misaligned voxels with poorly assigned functions. For example, some voxels intended for specific functions, such as an elderly dormitory, were positioned next to voxels designated for entirely different uses. To ensure a more logical distribution of functions, we manually reviewed the sections of the grwon voxelcloud and refined the layout, addressing inconsistencies and removing "rough edges" to a certain extent. The final, optimized result is found below.
 
 ![platte grond begane grond](https://github.com/user-attachments/assets/8d9b775e-fed7-478d-b8fb-e11d6f0d11f9)
 Figure 5 : Floorplan for groundfloor.
