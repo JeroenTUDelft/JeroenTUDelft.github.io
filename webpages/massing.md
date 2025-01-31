@@ -55,7 +55,7 @@ List of criteria with respective quantification:
 
 
 ## 3. Analyses
-Now that all the criteria are defined, all the analyses can be performed. In every analysis the voxels that are assigend with a low value for that specific criterium get a red colour, whilst every voxel that is assigned with a high value get a green colour. 
+Now that all the criteria are defined, all the analyses can be performed. In every analysis the voxels that are assigend with a low value for that specific criterion are colored red, whilst every voxel that is assigned with a high value is colored green. 
 
 ### Blocking Analysis 
 
