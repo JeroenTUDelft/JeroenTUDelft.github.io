@@ -111,6 +111,7 @@ For the placement of the façade tiles, we created a program in Houdini that fir
 -	Entrances for communal areas and parking
 -	Green roof in the hole of the building
 -	Dynamic array of balconies, whilst also making sure we don’t have too many or too few balconies
+
 Then it’s a matter of assigning each function to their specific tile, also accounting for the façade's orientation. The result is a beautiful dynamic façade, that works optimally for the comfortability of functions, taking sunlight into account and also the necessary placement of tiles with solar panels.
 
 ![flowchart placing tiles](https://github.com/user-attachments/assets/4cd0e4fe-104f-47ce-b5b1-0ca4d3e9367c)
