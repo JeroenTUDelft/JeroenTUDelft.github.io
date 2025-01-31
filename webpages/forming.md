@@ -94,6 +94,11 @@ Figure 13 : Urban plan for Rotterdam's golden view.
 
 ## Tiles
 
+### Placing tiles
+
+![flowchart tiles](https://github.com/user-attachments/assets/2ee77c43-b804-4685-9337-ea6f26f4e858)
+
+
 A total of eleven tiles were used to clad the façade points of our resulting cloud, based on our three-by-three-by-three meter voxel.  The tiles were designed and applied based on floor level, orientation and function. Window one was designed as a high window tile, to be applied to the "carpark" function. The extended wall space allowed for green façade placement. Windows two was applied uniquely at the north and west façade and never at the ground floor, whilst windows three, four and five, being smaller windows were applied at the south and east, hotter sides of our buildings. A similar condition was used for our balcony tiles, placing "balcony wide solar" only on the south and east façades. "Balcony wide" was prioritized for our elderly-dwellers.
 
 
