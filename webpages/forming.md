@@ -94,7 +94,7 @@ Figure 13 : Urban plan for Rotterdam's golden view.
 
 ## Tiles
 
-### Placing tiles
+### Forming tiles
 
 ![flowchart tiles](https://github.com/user-attachments/assets/2ee77c43-b804-4685-9337-ea6f26f4e858)
 Figure 14 :
@@ -110,6 +110,18 @@ Figure 15 :
 
 ![tiles _2](https://github.com/user-attachments/assets/d2307c74-52d2-4fec-b69f-db744cefa73b)
 Figure 16 :
+
+### Placing tiles
+
+For the placement of the façade tiles, we created a program in Houdini that first finds all façade voxels (outside voxels) of the imported ‘function assigned voxel cloud’. To make for a dynamic and well-thought-out façade, we also introduced some if statements for the making of new functions. These systems give us the following necessary outputs; 
+-	Entrances for communal areas and parking
+-	Green roof in the hole of the building
+-	Dynamic array of balconies, whilst also making sure we don’t have too many or too few balconies
+Then it’s a matter of assigning each function to their specific tile, also accounting for the façade's orientation. The result is a beautiful dynamic façade, that works optimally for the comfortability of functions, taking sunlight into account and also the necessary placement of tiles with solar panels.
+
+![flowchart placing tiles](https://github.com/user-attachments/assets/4cd0e4fe-104f-47ce-b5b1-0ca4d3e9367c)
+
+Figure 17 : 
 
 
 ## Renders
