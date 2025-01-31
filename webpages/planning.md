@@ -149,7 +149,7 @@ From this table we were able to construct the following matrix in wich the impor
 
 Figure 7 : Table relation between functions
 
-From this table we were able to construct the REL-Chart wich represents the adjency between the functions. This means that if the relation between the function is important they should be placed close to each other. As an example : the elderly units are not to be placed close to the stundent-units because of the noise. However, they would like to live closer to an elevator so they don't have to walk a great distance to leave the building. The distribution of relations is displayed in the legenda next to the figure.
+From this table we were able to construct the REL-Chart wich represents the adjecency between the functions. This means that if the relation between the function is important they should be placed close to each other. As an example : the elderly units are not to be placed close to the student-units because of the noise. However, they would like to live closer to an elevator so they don't have to walk a great distance to leave the building. The distribution of relations is displayed in the legenda next to the figure.
 
 ## REL-Chart
 ![image](https://github.com/user-attachments/assets/5d33f809-3194-43ed-8c41-a61a236a0b3d)
