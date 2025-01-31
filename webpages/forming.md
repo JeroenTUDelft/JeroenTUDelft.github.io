@@ -5,8 +5,8 @@
 - [Planning](https://jeroentudelft.github.io/webpages/planning)
 - [Configuring](https://jeroentudelft.github.io/webpages/configuring)
 - [Massing](https://jeroentudelft.github.io/webpages/massing)
-- [Forming](https://jeroentudelft.github.io/webpages/forming)
 - [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/waterandenergycalculations)
+- [Forming](https://jeroentudelft.github.io/webpages/forming)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 
 ## The forming phase consists of:
@@ -135,6 +135,8 @@ Figure 16 : Flowchart for placing tiles.
 
 
 ## 4. Renders
+
+The tiles form the last part of the design of Rotterdam's Golden view. To give a more realistic view of the project we rendered the building with these images as a result. 
 
 ![Image24](https://github.com/user-attachments/assets/1f2d84db-c52a-48b1-8989-0b05949a4674)
 Figure 17 :
