@@ -1,7 +1,7 @@
 # ROTTERDAM'S GOLDEN VIEW
 
 ![foto header](https://github.com/user-attachments/assets/32ea068c-114d-413a-bce2-2c8e711eb908) 
-By Bob's building crew:
+By Bob's Building crew:
 
 - Fleur Ubbink
 - Kenneth Moreno Kiernan
@@ -20,12 +20,14 @@ Teacher : Hans Hoogenboom, Monica Palfy, Ákos Sárkány
 - [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/waterandenergycalculations)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 
-In this report we will be discussing our design process for a new multipurpose apartment-building in the heart of Rotterdam. We will start with defining the user scenario's and enlighting the choises made for these scenario's. After this the design of building components en layout of the building. After this we will go over how the mass was turned into an actual building. This will be continued by the explanation of designing the surrounding area and lastly how the building has been textured and visualized.
+This report outlines the design process for a new computationally designed multipurpose apartment building in the heart of Rotterdam. We begin by defining the user scenarios and explaining the theory behind the design choices made for these scenarios. Next, we discuss the development of the building's components and layout. Following this, we will go into further detail about the process of transforming the massing model into a fully realized structure. The report will then cover the design of the surrounding environment, concluding with an overview of how the building was textured and visualized.
+
+## Task
 
 ## General overview of proces
 ![flowchart general proces](https://github.com/user-attachments/assets/ef92d2a1-064f-4269-b5cb-1a0a1f674fe0)
 
-
+Figure 1 : Flowchart of the general design proces 
 
 
 
