@@ -18,7 +18,7 @@
 5. REL-chart
 
 
-## User scenarios per group 
+## 1. User scenarios per group 
 
 To make sure that every user is as satisfied with the eventual building as possible, we thought about the scenarios that they encounter on a daily basis. From this we were able to find-out what they require from an apartment building. 
 
@@ -45,7 +45,7 @@ Self-contained elderly units: as an independent senior, I want a parking spot an
 Starter units: as a starter, I want my family to feel as safe as possible and make our lives more convenient. This means that our apartment must at least be 50 m2 with some extra storage space and a balcony included. The extra storage space doesn’t need to be on our floor.  As starters my partner and I are ambitious and very busy. A room for a potential child is not necessary because we don’t want to have our child growing up in a large building with students. We like our rest and privacy but  don’t want to feel like we’re living alone. Some casual contact between the other residents is what we like. So the possibility to chat with the students or help the elderly in a communal area would be nice. As long as we can park our car in a carpark that’s in direct contact with the building itself by stares or an elevator. As our lives are busy, we want the facilities ( coffee corner, supermarket, laundry units and communal area ) to be nearby. We don’t want to be disturbed by the chaos that’s brought by the students. 
 
 
-## Site Analysis
+## 2. Site Analysis
 
 Since the building has to encourage possitive interaction between the groups and satisfy the needs of its users, a site analysis was done to find out what kind of facilities the building would need. To do so we visited the site itself and done research online.
 
@@ -85,7 +85,7 @@ As you can see here, there are only 2 libraries near the Schieblock and they are
 
 
 
-## List of facilities & spaces
+## 3. List of facilities & spaces
 
 Concluding the site analysis and the user scenarios we were able to build a list of facilities and spaces. Added to every function is a rough estimation of the desired square meters for the specific function. These were basic calculations on averages of allready excisiting data. For instance the carpark: the amount of square meters for an average parkingspace multiplied by the minimal amount of spaces needed for this building.
 
@@ -132,7 +132,7 @@ Concluding the site analysis and the user scenarios we were able to build a list
 19. Rainwater Tank 
 21. Lift Shaft/Stairs 
 
-## Usage
+## 4. Usage
 
 To quantify the needs of the different user groups, multiple tables were made. These are displayed below.
 
@@ -151,7 +151,7 @@ Figure 7 : Table relation between functions
 
 From this table we were able to construct the REL-Chart wich represents the adjecency between the functions. This means that if the relation between the function is important they should be placed close to each other. As an example : the elderly units are not to be placed close to the student-units because of the noise. However, they would like to live closer to an elevator so they don't have to walk a great distance to leave the building. The distribution of relations is displayed in the legenda next to the figure.
 
-## REL-Chart
+## 5. REL-Chart
 ![image](https://github.com/user-attachments/assets/5d33f809-3194-43ed-8c41-a61a236a0b3d)
 
 Figure 8 : REL-Chart
