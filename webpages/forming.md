@@ -97,6 +97,7 @@ Figure 13 : Urban plan for Rotterdam's golden view.
 ### Placing tiles
 
 ![flowchart tiles](https://github.com/user-attachments/assets/2ee77c43-b804-4685-9337-ea6f26f4e858)
+Figure 14 :
 
 
 A total of eleven tiles were used to clad the façade points of our resulting cloud, based on our three-by-three-by-three meter voxel.  The tiles were designed and applied based on floor level, orientation and function. Window one was designed as a high window tile, to be applied to the "carpark" function. The extended wall space allowed for green façade placement. Windows two was applied uniquely at the north and west façade and never at the ground floor, whilst windows three, four and five, being smaller windows were applied at the south and east, hotter sides of our buildings. A similar condition was used for our balcony tiles, placing "balcony wide solar" only on the south and east façades. "Balcony wide" was prioritized for our elderly-dwellers.
@@ -104,63 +105,63 @@ A total of eleven tiles were used to clad the façade points of our resulting cl
 
 
 ![tiles_ 1](https://github.com/user-attachments/assets/520d6c22-e4c8-4ab3-9396-b5244f0830b0)
-Figure 14 :
+Figure 15 :
 
 
 ![tiles _2](https://github.com/user-attachments/assets/d2307c74-52d2-4fec-b69f-db744cefa73b)
-Figure 15 :
+Figure 16 :
 
 
 ## Renders
 
 ![Image24](https://github.com/user-attachments/assets/1f2d84db-c52a-48b1-8989-0b05949a4674)
-Figure 16 :
-![Image23](https://github.com/user-attachments/assets/66d1ace8-f54c-4d61-953e-e9564a87a9d7)
 Figure 17 :
-![Image22](https://github.com/user-attachments/assets/3cb7a55d-8528-4bf5-b4f0-7426e22e11d6)
+![Image23](https://github.com/user-attachments/assets/66d1ace8-f54c-4d61-953e-e9564a87a9d7)
 Figure 18 :
-![Image21](https://github.com/user-attachments/assets/0fb9c06a-6b3c-43e8-bab6-7ea04d7b1001)
+![Image22](https://github.com/user-attachments/assets/3cb7a55d-8528-4bf5-b4f0-7426e22e11d6)
 Figure 19 :
-![Image20](https://github.com/user-attachments/assets/9f756f2c-f682-4a8e-b5d5-d84885a2bec6)
+![Image21](https://github.com/user-attachments/assets/0fb9c06a-6b3c-43e8-bab6-7ea04d7b1001)
 Figure 20 :
-![Image19](https://github.com/user-attachments/assets/a86ba83e-b1d5-43b4-b02b-40cc019b9557)
+![Image20](https://github.com/user-attachments/assets/9f756f2c-f682-4a8e-b5d5-d84885a2bec6)
 Figure 21 :
+![Image19](https://github.com/user-attachments/assets/a86ba83e-b1d5-43b4-b02b-40cc019b9557)
+Figure 22:
 ![Image18](https://github.com/user-attachments/assets/6c3d6bea-f141-4660-a274-d4cee573575e)
-Figure 22 :
-![Image17](https://github.com/user-attachments/assets/37aacfe7-2940-4dea-9358-2e11c75b49ef)
 Figure 23 :
-![Image17_000](https://github.com/user-attachments/assets/926f8642-d9d5-47bc-a024-4c1fe6afbbfa)
+![Image17](https://github.com/user-attachments/assets/37aacfe7-2940-4dea-9358-2e11c75b49ef)
 Figure 24 :
-![Image16](https://github.com/user-attachments/assets/5d5a2a29-c111-4d69-a091-7b99339bf108)
+![Image17_000](https://github.com/user-attachments/assets/926f8642-d9d5-47bc-a024-4c1fe6afbbfa)
 Figure 25 :
-![Image15](https://github.com/user-attachments/assets/ee8fa5e7-cb3c-48a8-a05f-cff664ea5df2)
+![Image16](https://github.com/user-attachments/assets/5d5a2a29-c111-4d69-a091-7b99339bf108)
 Figure 26 :
-![Image14](https://github.com/user-attachments/assets/bc27d335-4f32-48a9-b4e4-064d5b7440f0)
+![Image15](https://github.com/user-attachments/assets/ee8fa5e7-cb3c-48a8-a05f-cff664ea5df2)
 Figure 27 :
-![Image13_000](https://github.com/user-attachments/assets/391b3969-4774-4b6e-b144-86d3bd745449)
+![Image14](https://github.com/user-attachments/assets/bc27d335-4f32-48a9-b4e4-064d5b7440f0)
 Figure 28 :
-![Image12](https://github.com/user-attachments/assets/e505251c-556d-47d4-b17b-53bb00a5c01b)
+![Image13_000](https://github.com/user-attachments/assets/391b3969-4774-4b6e-b144-86d3bd745449)
 Figure 29 :
-![Image11_000](https://github.com/user-attachments/assets/ed0068ec-de68-4876-b5f0-facb954443d8)
+![Image12](https://github.com/user-attachments/assets/e505251c-556d-47d4-b17b-53bb00a5c01b)
 Figure 30 :
-![Image10_000](https://github.com/user-attachments/assets/147cd822-9fe2-4e0e-9898-2d02fffde324)
+![Image11_000](https://github.com/user-attachments/assets/ed0068ec-de68-4876-b5f0-facb954443d8)
 Figure 31 :
-![Image9](https://github.com/user-attachments/assets/e6b63dc9-c52d-4d35-83fa-34e73c798f6e)
+![Image10_000](https://github.com/user-attachments/assets/147cd822-9fe2-4e0e-9898-2d02fffde324)
 Figure 32 :
+![Image9](https://github.com/user-attachments/assets/e6b63dc9-c52d-4d35-83fa-34e73c798f6e)
+Figure 33 :
 ![Image8](https://github.com/user-attachments/assets/7fe9b060-81fa-4fd0-940b-76fb96ad380e)
-Figure 33:
+Figure 34:
 ![Image7](https://github.com/user-attachments/assets/be16e219-cc4e-4490-a89b-7f1066570aba)
-Figure 34 :
-![Image6](https://github.com/user-attachments/assets/4d33f5ee-403d-4163-bef1-22226dd061d6)
 Figure 35 :
-![Image5](https://github.com/user-attachments/assets/51197162-3a14-46ca-846b-ea660518db3b)
+![Image6](https://github.com/user-attachments/assets/4d33f5ee-403d-4163-bef1-22226dd061d6)
 Figure 36 :
-![Image4](https://github.com/user-attachments/assets/8fe6564b-7056-4b3c-9bc3-b0b90c648321)
+![Image5](https://github.com/user-attachments/assets/51197162-3a14-46ca-846b-ea660518db3b)
 Figure 37 :
-![Image3](https://github.com/user-attachments/assets/1fbd5eed-a8d7-49ac-a390-e9f7c517d624)
+![Image4](https://github.com/user-attachments/assets/8fe6564b-7056-4b3c-9bc3-b0b90c648321)
 Figure 38 :
+![Image3](https://github.com/user-attachments/assets/1fbd5eed-a8d7-49ac-a390-e9f7c517d624)
+Figure 39 :
 ![Image2_000](https://github.com/user-attachments/assets/95813a84-3a28-49a3-8dfd-b99b62f2368e)
-
+Figure 40 : 
 
 
 
