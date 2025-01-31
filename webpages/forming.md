@@ -136,56 +136,61 @@ Figure 16 : Flowchart for placing tiles.
 
 ## 4. Renders
 
-The tiles form the last part of the design of Rotterdam's Golden view. To give a more realistic view of the project we rendered the building with these images as a result. 
+The tiles form the last part of the design of Rotterdam's Golden view. To give a more realistic view of the project we rendered the building with these images as a result.
 
-![Image24](https://github.com/user-attachments/assets/1f2d84db-c52a-48b1-8989-0b05949a4674)
-Figure 17 :
-![Image23](https://github.com/user-attachments/assets/66d1ace8-f54c-4d61-953e-e9564a87a9d7)
-Figure 18 :
-![Image22](https://github.com/user-attachments/assets/3cb7a55d-8528-4bf5-b4f0-7426e22e11d6)
-Figure 19 :
-![Image21](https://github.com/user-attachments/assets/0fb9c06a-6b3c-43e8-bab6-7ea04d7b1001)
-Figure 20 :
-![Image20](https://github.com/user-attachments/assets/9f756f2c-f682-4a8e-b5d5-d84885a2bec6)
-Figure 21:
-![Image19](https://github.com/user-attachments/assets/a86ba83e-b1d5-43b4-b02b-40cc019b9557)
-Figure 22:
-![Image18](https://github.com/user-attachments/assets/6c3d6bea-f141-4660-a274-d4cee573575e)
-Figure 23:
-![Image17](https://github.com/user-attachments/assets/37aacfe7-2940-4dea-9358-2e11c75b49ef)
-Figure 24 :
-![Image17_000](https://github.com/user-attachments/assets/926f8642-d9d5-47bc-a024-4c1fe6afbbfa)
-Figure 25 :
-![Image16](https://github.com/user-attachments/assets/5d5a2a29-c111-4d69-a091-7b99339bf108)
-Figure 26 :
+The final design follows the requirements stated on the home page. The target for the amount of housing units and additional requirements is achieved. 
+
+Rotterdam's Golden View minimizes sunlight blockage and noise for buildings in the surrounding area by incorporating the blocking- and sound analysis for the voxelcloud. This results in the open area half way - up the building. It maximizes social integration by adding a communal library and shared laundryrooms. The biergarten is preserved because the voxelcloud does not cover that area. Because of the use of multiple accessroads the building is still accesseble by truck or ambulance.  
+
+
 ![Image15](https://github.com/user-attachments/assets/ee8fa5e7-cb3c-48a8-a05f-cff664ea5df2)
-Figure 27 :
+Figure 17 : Render : residents looking at the Golden view.
+![Image23](https://github.com/user-attachments/assets/66d1ace8-f54c-4d61-953e-e9564a87a9d7)
+Figure 18 : Render : residents looking at the Golden view.
 ![Image14](https://github.com/user-attachments/assets/bc27d335-4f32-48a9-b4e4-064d5b7440f0)
-Figure 28 :
+Figure 19 : Render : residents on the roofgarden.
+![Image24](https://github.com/user-attachments/assets/1f2d84db-c52a-48b1-8989-0b05949a4674)
+Figure 20 : Render : Detailed look at the project.
+![Image22](https://github.com/user-attachments/assets/3cb7a55d-8528-4bf5-b4f0-7426e22e11d6)
+Figure 21 : Render : The building from the traintracks.
+![Image21](https://github.com/user-attachments/assets/0fb9c06a-6b3c-43e8-bab6-7ea04d7b1001)
+Figure 22 : Render : Detailed look at the project.
+![Image20](https://github.com/user-attachments/assets/9f756f2c-f682-4a8e-b5d5-d84885a2bec6)
+Figure 23: Render : Detailed look at the project.
+![Image19](https://github.com/user-attachments/assets/a86ba83e-b1d5-43b4-b02b-40cc019b9557)
+Figure 24: Render : Detailed look at the project.
+![Image18](https://github.com/user-attachments/assets/6c3d6bea-f141-4660-a274-d4cee573575e)
+Figure 25: Render : Detailed look at the project.
+![Image17](https://github.com/user-attachments/assets/37aacfe7-2940-4dea-9358-2e11c75b49ef)
+Figure 26 : Render : Detailed look at the project.
+![Image17_000](https://github.com/user-attachments/assets/926f8642-d9d5-47bc-a024-4c1fe6afbbfa)
+Figure 27 : Render : Detailed look at the project.
+![Image16](https://github.com/user-attachments/assets/5d5a2a29-c111-4d69-a091-7b99339bf108)
+Figure 28 : Render : Detailed look at the inside of the project.
 ![Image13_000](https://github.com/user-attachments/assets/391b3969-4774-4b6e-b144-86d3bd745449)
-Figure 29 :
+Figure 29 : Render : Detailed look at the project.
 ![Image12](https://github.com/user-attachments/assets/e505251c-556d-47d4-b17b-53bb00a5c01b)
-Figure 30 :
+Figure 30 : Render : residents on the roofgarden.
 ![Image11_000](https://github.com/user-attachments/assets/ed0068ec-de68-4876-b5f0-facb954443d8)
-Figure 31:
+Figure 31 : Render : Detailed look at the project.
 ![Image10_000](https://github.com/user-attachments/assets/147cd822-9fe2-4e0e-9898-2d02fffde324)
-Figure 32:
+Figure 32 : Render : Detailed look at the project. 
 ![Image9](https://github.com/user-attachments/assets/e6b63dc9-c52d-4d35-83fa-34e73c798f6e)
-Figure 33 :
+Figure 33 : Render : Detailed look at the project.
 ![Image8](https://github.com/user-attachments/assets/7fe9b060-81fa-4fd0-940b-76fb96ad380e)
-Figure 34:
+Figure 34 : Render : Detailed look at the project.
 ![Image7](https://github.com/user-attachments/assets/be16e219-cc4e-4490-a89b-7f1066570aba)
-Figure 35 :
+Figure 35 : Render : Detailed look at the project.
 ![Image6](https://github.com/user-attachments/assets/4d33f5ee-403d-4163-bef1-22226dd061d6)
-Figure 36 :
+Figure 36 : Render : Detailed look at the project.
 ![Image5](https://github.com/user-attachments/assets/51197162-3a14-46ca-846b-ea660518db3b)
-Figure 37 :
+Figure 37 : Render : Detailed look at the project.
 ![Image4](https://github.com/user-attachments/assets/8fe6564b-7056-4b3c-9bc3-b0b90c648321)
-Figure 38 :
+Figure 38 : Render : Detailed look at the project.
 ![Image3](https://github.com/user-attachments/assets/1fbd5eed-a8d7-49ac-a390-e9f7c517d624)
-Figure 39 :
+Figure 39 : Render : Detailed look at the project.
 ![Image2_000](https://github.com/user-attachments/assets/95813a84-3a28-49a3-8dfd-b99b62f2368e)
-Figure 40 : 
+Figure 40 : Render : Detailed look at the project.
 
 
 
