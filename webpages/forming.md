@@ -96,16 +96,14 @@ Figure 13 : Urban plan for Rotterdam's golden view.
 
 ### Forming tiles
 
-A total of eleven tiles were used to clad the façade points of our resulting cloud, based on our three-by-three-by-three meter voxel.  The tiles were designed and applied based on floor level, orientation and function. Window one was designed as a high window tile, to be applied to the "carpark" function. The extended wall space allowed for green façade placement. Windows two was applied uniquely at the north and west façade and never at the ground floor, whilst windows three, four and five, being smaller windows were applied at the south and east, hotter sides of our buildings. A similar condition was used for our balcony tiles, placing "balcony wide solar" only on the south and east façades. "Balcony wide" was prioritized for our elderly-dwellers.
+A total of eleven tiles were used to clad the façade points of our resulting cloud, based on our three-by-three-by-three meter voxel.  The tiles were designed and applied based on floor level, orientation and function. Window one was designed as a high window tile, to be applied to the "carpark" function. The extended wall space allowed for green façade placement. Window two was applied uniquely at the north and west façade and never at the ground floor, whilst windows three, four and five, being smaller windows were applied at the south and east, hotter sides of our buildings. A similar condition was used for our balcony tiles, placing "balcony wide solar" only on the south and east façades. "Balcony wide" was prioritized for our elderly-dwellers.
 
-
-
-![tiles_ 1](https://github.com/user-attachments/assets/520d6c22-e4c8-4ab3-9396-b5244f0830b0)
+![tiles _1](https://github.com/user-attachments/assets/d2307c74-52d2-4fec-b69f-db744cefa73b)
 Figure 14 :
 
-
-![tiles _2](https://github.com/user-attachments/assets/d2307c74-52d2-4fec-b69f-db744cefa73b)
+![tiles_ 2](https://github.com/user-attachments/assets/520d6c22-e4c8-4ab3-9396-b5244f0830b0)
 Figure 15 :
+
 
 ### Placing tiles
 
