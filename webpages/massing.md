@@ -1,5 +1,6 @@
 # Massing
 
+## Index
 - [Home](https://jeroentudelft.github.io/)
 - [Planning](https://jeroentudelft.github.io/webpages/planning)
 - [Configuring](https://jeroentudelft.github.io/webpages/configuring)
