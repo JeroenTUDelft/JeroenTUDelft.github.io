@@ -96,20 +96,16 @@ Figure 13 : Urban plan for Rotterdam's golden view.
 
 ### Forming tiles
 
-![flowchart tiles](https://github.com/user-attachments/assets/2ee77c43-b804-4685-9337-ea6f26f4e858)
-Figure 14 :
-
-
 A total of eleven tiles were used to clad the façade points of our resulting cloud, based on our three-by-three-by-three meter voxel.  The tiles were designed and applied based on floor level, orientation and function. Window one was designed as a high window tile, to be applied to the "carpark" function. The extended wall space allowed for green façade placement. Windows two was applied uniquely at the north and west façade and never at the ground floor, whilst windows three, four and five, being smaller windows were applied at the south and east, hotter sides of our buildings. A similar condition was used for our balcony tiles, placing "balcony wide solar" only on the south and east façades. "Balcony wide" was prioritized for our elderly-dwellers.
 
 
 
 ![tiles_ 1](https://github.com/user-attachments/assets/520d6c22-e4c8-4ab3-9396-b5244f0830b0)
-Figure 15 :
+Figure 14 :
 
 
 ![tiles _2](https://github.com/user-attachments/assets/d2307c74-52d2-4fec-b69f-db744cefa73b)
-Figure 16 :
+Figure 15 :
 
 ### Placing tiles
 
@@ -121,7 +117,7 @@ Then it’s a matter of assigning each function to their specific tile, also acc
 
 ![flowchart placing tiles](https://github.com/user-attachments/assets/4cd0e4fe-104f-47ce-b5b1-0ca4d3e9367c)
 
-Figure 17 : 
+Figure 16 : 
 
 
 ## Renders
@@ -135,11 +131,11 @@ Figure 19 :
 ![Image21](https://github.com/user-attachments/assets/0fb9c06a-6b3c-43e8-bab6-7ea04d7b1001)
 Figure 20 :
 ![Image20](https://github.com/user-attachments/assets/9f756f2c-f682-4a8e-b5d5-d84885a2bec6)
-Figure 21 :
+Figure 21:
 ![Image19](https://github.com/user-attachments/assets/a86ba83e-b1d5-43b4-b02b-40cc019b9557)
 Figure 22:
 ![Image18](https://github.com/user-attachments/assets/6c3d6bea-f141-4660-a274-d4cee573575e)
-Figure 23 :
+Figure 23:
 ![Image17](https://github.com/user-attachments/assets/37aacfe7-2940-4dea-9358-2e11c75b49ef)
 Figure 24 :
 ![Image17_000](https://github.com/user-attachments/assets/926f8642-d9d5-47bc-a024-4c1fe6afbbfa)
@@ -155,9 +151,9 @@ Figure 29 :
 ![Image12](https://github.com/user-attachments/assets/e505251c-556d-47d4-b17b-53bb00a5c01b)
 Figure 30 :
 ![Image11_000](https://github.com/user-attachments/assets/ed0068ec-de68-4876-b5f0-facb954443d8)
-Figure 31 :
+Figure 31:
 ![Image10_000](https://github.com/user-attachments/assets/147cd822-9fe2-4e0e-9898-2d02fffde324)
-Figure 32 :
+Figure 32:
 ![Image9](https://github.com/user-attachments/assets/e6b63dc9-c52d-4d35-83fa-34e73c798f6e)
 Figure 33 :
 ![Image8](https://github.com/user-attachments/assets/7fe9b060-81fa-4fd0-940b-76fb96ad380e)
