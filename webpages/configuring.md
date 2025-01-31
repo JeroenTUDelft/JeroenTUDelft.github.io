@@ -66,8 +66,7 @@ Figure 7 : Bubble Diagram Schieblok Ground Floor-Configuration 2.
 
 
 ### Product
-After defining the configuration of the floors, we were able to construct the following bubble diagrams. In these diagrams the flowpaths of the different user groups are represented. This is a very schematized way of the showing the route one has to take to come to a certain location in the building. To highlight a certain path; as displayed in figure 8, an assisted elderly has less spaces to go through to get to the lobby than someone living in a starter-unit for instance. 
-
+After finalizing the floor configurations, we created the following bubble diagrams to illustrate the flow paths of the user groups within the building. These diagrams provide a schematic representation of the routes one must take to reach a specific location. To highlight key differences in movement, as shown in Figure 8, the path for an assisted elderly resident is more direct, with fewer spaces to navigate through before reaching the lobby, compared to, for example, a resident of a starter unit.
 
 ![image](https://github.com/user-attachments/assets/025d6f99-ebe8-405c-8d8e-0f20f63f21e6)
 
