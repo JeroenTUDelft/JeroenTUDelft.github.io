@@ -89,7 +89,7 @@ Figure 11 : Flowpath student.
 
 ### Final Bubble diagram
 
-To make even more use of the bubble diagram concept, we used a Houdini-script to illustrate how the different fucntions would be distributed through the building. In this script every function gets assigned to a point in a circle. This point gets weighted according to the amount of space it takes up in the building and the importance of the function itself. This importance is a quantified value. You could see it as an average per column from figure 6 on the planning page. The Houdini-script than calculates the exact and most efficient position for every function, and by how much every function needs to "stick" to another function. The workflow for this proces is diplayed in the flowchart below
+To make even more use of the bubble diagram concept, we used a Houdini-script to illustrate how the different fucntions would be distributed through the building. In this script every function gets assigned to a point in a circle. This point gets weighted according to the amount of space it takes up in the building and the importance of the function itself. This importance is a quantified value. You could see it as an average per column from figure 6 on the planning page. The Houdini-script than calculates the exact and most efficient position for every function, and by how much every function needs to "stick" to another function. The workflow for this proces is diplayed in the flowchart below.
 
 
 ![flowchart bubblediagram](https://github.com/user-attachments/assets/2c2eaa98-2ab9-4ecc-b8a9-6b7dfdf78b96)
