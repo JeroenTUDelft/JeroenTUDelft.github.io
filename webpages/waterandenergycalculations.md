@@ -4,12 +4,16 @@
 - [Planning](https://jeroentudelft.github.io/webpages/planning)
 - [Configuring](https://jeroentudelft.github.io/webpages/configuring)
 - [Massing](https://jeroentudelft.github.io/webpages/massing)
-- [Forming](https://jeroentudelft.github.io/webpages/forming)
 - [Water and Energy Calculations](https://jeroentudelft.github.io/webpages/waterandenergycalculations)
+- [Forming](https://jeroentudelft.github.io/webpages/forming)
 - [Reflections](https://jeroentudelft.github.io/webpages/reflections)
 
+## Water and Energy Calculations consists of:
+1. Water calculation
+2. Solar panel calculation
 
-## Water
+
+## 1. Water calculation
 
 
 ![image](https://github.com/user-attachments/assets/c57dee0b-c855-4d80-bdc7-94020c9b9722)
@@ -21,3 +25,8 @@ The table bellow illustrates the water balance calculations for the Schieblock p
 
 ![tabel waterbalans](https://github.com/user-attachments/assets/49e308c8-af04-4d50-896d-e33d7ef4d0c0)
 Figure 2 : Table waterbalance
+
+
+## 2. Solar panel calculation
+
+
