@@ -47,39 +47,39 @@ Starter units: as a starter, I want my family to feel as safe as possible and ma
 
 ## Site Analysis
 
-Since the building has to encourage possitive interaction between the groups and satisfy the needs of it's users, a site analysis was done to find out what kind of facilities the building would need. To do so we visited the site itself and done research online.
+Since the building has to encourage possitive interaction between the groups and satisfy the needs of its users, a site analysis was done to find out what kind of facilities the building would need. To do so we visited the site itself and done research online.
 
 ![restaurants](https://github.com/user-attachments/assets/1a9647ca-d9e8-43f2-973b-e054fce50a97)
 
-Figure 4 : screenshot form google maps showing all the restaurants in the surrounding area.
+Figure 1 : Screenshot form google maps showing all the restaurants in the surrounding area.
 
 We chose to not add a restaurant, since there are plenty of restaurants in the neighbourhood.
 
 
 ![accessibility](https://github.com/user-attachments/assets/a83c8acb-9ba0-4623-9255-2abfde5cdf30)
 
-Figure 5 : screenshot form google maps showing all the public transport acces points in the surrounding area.
+Figure 2 : Screenshot form google maps showing all the public transport acces points in the surrounding area.
 
 The Schieblock is also located near lots of public transportation stops. This creates various possibilities of entrance placement, keeping the dependent elderly and minimum walking distance in mind.
 
 
 ![gyms](https://github.com/user-attachments/assets/984b5860-e180-47a4-bb34-02d4dcd904c3)
 
-Figure 6 : screenshot form google maps showing all the gyms in the surrounding area.
+Figure 3 : Screenshot form google maps showing all the gyms in the surrounding area.
 
 The Schieblock is located among various gyms and other sportscentres, which lead us to the decision to not add a gym in our building.
 
 
 ![grocerystores](https://github.com/user-attachments/assets/dc39fa4f-90b4-482c-9a07-ff0a90d4e1f1)
 
-Figure 7 : screenshot form google maps showing all the grocerystores in the surrounding area.
+Figure 4 : Screenshot form google maps showing all the grocerystores in the surrounding area.
 
 The supermarkets are relatively close to the Schieblock. However, for the dependent elderly, they could be quite far away if they go by foot. We chose to add a small supermarket in our building for the daily groceries, to make our building more accessible. Not only for the dependent elderly, but also for other residents that need some extra groceries
 
 
 ![libraries](https://github.com/user-attachments/assets/fc8ab859-0e7e-40bb-ae26-7461e687988a)
 
-Figure 8 : screenshot form google maps showing all the libraries in the surrounding area.
+Figure 5 : Screenshot form google maps showing all the libraries in the surrounding area.
 
 As you can see here, there are only 2 libraries near the Schieblock and they are still quite far away. We chose to add a library with coffee corner to our building to increase interaction among all residents (young and old) and to make it easier to enjoy a good book. This can be a great moment of rest or a motivator to study.
 
@@ -140,21 +140,21 @@ In the table below the relation between every user group and every function is d
 
 ![tabel ussage per usergroup](https://github.com/user-attachments/assets/2499add3-7bdd-472c-a935-00883f596c64)
 
-Figure 1 : table ussage per user group
+Figure 6  : Table ussage per user group
 
 
 From this table we were able to construct the following matrix in wich the importance between every function is listed. With dark blue meaning the relation is very important and light blue meaning the realtion is not important. This table is a representation of how close the functions should be placed between eachother in the building itself.
 
 ![image](https://github.com/user-attachments/assets/cb6d5276-21d8-41d3-a3bd-8fa640ef1e1f)
 
-Figure 2 : table relation between functions
+Figure 7 : Table relation between functions
 
 From this table we were able to construct the REL-Chart wich represents the adjency between the functions. This means that if the relation between the function is important they should be placed close to each other. As an example : the elderly units are not to be placed close to the stundent-units because of the noise. However, they would like to live closer to an elevator so they don't have to walk a great distance to leave the building. The distribution of relations is displayed in the legenda next to the figure.
 
 ## REL-Chart
 ![image](https://github.com/user-attachments/assets/5d33f809-3194-43ed-8c41-a61a236a0b3d)
 
-Figure 3 : REL-Chart
+Figure 8 : REL-Chart
 
 
 
