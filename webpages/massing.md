@@ -117,7 +117,7 @@ Figure 14 : Result of ground level analysis from south - west point of view.
 
 
 ### Sound Analysis
-The Schiestraat is surrounded by various sound sources. The train station is close to the location and the train rails run right next to the building, but also busy streets and clubs/cafes nearby can cause a lot of noise.  To analyse the sound levels, we used DCMR documents and adapted these in Photoshop to create sound points with 5 different levels of sound ranging from 57 to 77.5 decibels in Houdini. This information is later used for the growing algorithm to assign functions that require a quitter environment to voxel points that have lower sound levels. Green voxels have a lower sound disturbance than red voxels.
+The Schiestraat is surrounded by various sound sources. The train station is close to the location and the train rails run right next to the building, but also busy streets and clubs/cafes nearby can cause a lot of noise.  To analyse the sound levels, we used DCMR documents and adapted these in Photoshop to create sound points with 5 different levels of sound ranging from 57 to 77.5 decibels in Houdini. This information is later used for the growing algorithm to assign functions that require a quieter environment to voxel points that have lower sound levels. Green voxels have a lower sound disturbance than red voxels.
 
 ![flowchart sound analyse](https://github.com/user-attachments/assets/1cc7d9a1-23ea-47dc-a265-b34a1d41cdde)
 
